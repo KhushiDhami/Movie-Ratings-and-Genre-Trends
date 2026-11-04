@@ -1,0 +1,1551 @@
+Movie_ID,Title,Release_Year,Genre,Runtime_Minutes,Rating,Votes,Budget_Million,Box_Office_Million
+MV-10001,A Eternal Destiny,2010,Comedy,101.0,6.9,239566,40.58,74.07
+MV-10002,A Forgotten Dreams,2021,Comedy,106.0,6.6,269072,40.15,115.22
+MV-10003,A Forgotten Horizon,2001,Animation,98.0,7.0,988059,50.74,684.26
+MV-10004,A Furious Empire,2023,Drama,140.0,7.7,341346,18.18,27.21
+MV-10005,A Furious Illusion,2002,Sci-Fi,151.0,5.8,847114,112.87,620.39
+MV-10006,A Golden Eternity,2007,Sci-Fi,140.0,7.9,838822,136.57,503.86
+MV-10007,A Infinite Sanctuary,2018,Thriller,97.0,7.1,158431,2.0,4.67
+MV-10008,A Iron Dreams,2009,Documentary,78.0,8.2,511553,7.08,17.59
+MV-10009,A Secret Warrior,2015,Comedy,93.0,5.9,174063,25.04,51.12
+MV-10010,A Shattered Valley,2011,Comedy,108.0,6.7,225684,28.89,74.63
+MV-10011,Ancient Courage,2018,Drama,157.0,7.0,268199,37.7,91.69
+MV-10012,Ancient Destiny,2003,Action,143.0,7.0,461545,113.76,242.18
+MV-10013,Ancient Dreams,1990,Comedy,100.0,7.1,349077,16.75,73.48
+MV-10014,Ancient Empire,2005,Comedy,109.0,6.5,432691,58.25,246.13
+MV-10015,Ancient Frontier,2011,Adventure,125.0,6.7,302359,11.88,33.85
+MV-10016,Ancient Future,2000,Animation,94.0,7.4,479548,52.54,242.62
+MV-10017,Ancient Justice,2008,Drama,130.0,8.2,350383,44.48,107.75
+MV-10018,Ancient Odyssey,2009,Action,124.0,6.1,571700,111.61,321.96
+MV-10019,Ancient Storm,1990,Romance,114.0,8.3,357449,2.0,10.07
+MV-10020,Ancient Symphony,2014,Drama,117.0,7.6,305928,39.7,72.94
+MV-10021,Ancient Voyage,2022,Drama,129.0,8.3,353579,30.42,113.66
+MV-10022,Ancient Winter,2000,Drama,126.0,7.3,429803,36.79,143.92
+MV-10023,Battle for Brave Tomorrow,2014,Thriller,101.0,6.0,113795,2.0,6.49
+MV-10024,Battle for Cosmic Eternity,2016,Drama,118.0,8.5,326059,3.42,6.86
+MV-10025,Battle for Cosmic Horizon,2010,Animation,104.0,6.4,603792,95.9,375.44
+MV-10026,Battle for Cosmic Illusion,2017,Action,153.0,6.0,802042,115.31,517.93
+MV-10027,Battle for Crimson Kingdom,2010,Action,129.0,6.5,726192,88.82,454.18
+MV-10028,Battle for Crimson Storm,2012,Comedy,91.0,6.2,229184,2.0,9.23
+MV-10029,Battle for Forgotten Sanctuary,1985,Action,119.0,6.2,663681,95.19,383.78
+MV-10030,Battle for Frozen Frontier,2017,Sci-Fi,156.0,6.8,148677,2.0,10.7
+MV-10031,Battle for Golden Courage,2016,Horror,90.0,5.0,121383,11.78,42.38
+MV-10032,Battle for Hidden Empire,1988,Horror,100.0,6.6,238538,9.87,70.9
+MV-10033,Battle for Iron Memory,2008,Thriller,111.0,6.6,190221,19.01,36.73
+MV-10034,Battle for Iron Storm,2024,Romance,121.0,5.9,421148,54.52,266.56
+MV-10035,Battle for Last Sanctuary,2010,Adventure,118.0,8.2,570862,151.3,287.82
+MV-10036,Battle for Last Valley,2012,Horror,100.0,6.8,293038,29.99,127.85
+MV-10037,Battle for Lost Horizon,2022,Drama,130.0,6.8,264616,25.16,84.47
+MV-10038,Battle for Lost Kingdom,2017,Drama,123.0,8.0,324275,34.49,106.95
+MV-10039,Battle for Midnight Frontier,2014,Comedy,101.0,6.1,308044,42.71,96.29
+MV-10040,Battle for Midnight Silence,2019,Sci-Fi,115.0,7.0,2348398,215.02,1821.61
+MV-10041,Battle for Mystic Destiny,2021,Action,134.0,7.6,1373934,166.81,983.51
+MV-10042,Battle for Mystic Dreams,2011,Action,152.0,5.7,586111,163.36,396.74
+MV-10043,Battle for Radiant Symphony,2011,Romance,113.0,5.9,217569,25.95,96.48
+MV-10044,Battle for Shattered Frontier,2009,Romance,104.0,5.2,409824,51.99,220.19
+MV-10045,Battle for Spectral Kingdom,2024,Romance,116.0,7.2,385386,28.93,131.31
+MV-10046,Battle for Starlight Dreams,2017,Comedy,94.0,5.7,98145,2.0,4.04
+MV-10047,Battle for Starlight Sanctuary,1993,Sci-Fi,157.0,6.3,358611,81.85,174.36
+MV-10048,Battle for Wild Symphony,2021,Comedy,105.0,6.2,318731,48.44,172.01
+MV-10049,Beyond Ancient Galaxy,2012,Drama,116.0,8.1,327983,41.28,91.4
+MV-10050,Beyond Ancient Silence,1991,Drama,137.0,7.5,247753,15.94,55.25
+MV-10051,Beyond Cosmic Galaxy,2013,Comedy,90.0,7.1,249645,35.26,80.97
+MV-10052,Beyond Crimson Courage,2010,Action,126.0,7.1,1461466,195.91,1041.1
+MV-10053,Beyond Crimson Empire,2021,Adventure,134.0,6.6,808643,99.62,551.86
+MV-10054,Beyond Dark Wilderness,2002,Drama,114.0,7.2,351054,47.14,134.86
+MV-10055,Beyond Furious Future,2020,Horror,94.0,5.7,261784,23.3,115.74
+MV-10056,Beyond Golden Glory,2013,Thriller,121.0,6.8,423788,69.22,234.64
+MV-10057,Beyond Golden Warrior,1990,Comedy,112.0,7.6,220498,20.21,31.67
+MV-10058,Beyond Radiant Storm,2024,Action,131.0,6.9,1329828,167.44,968.95
+MV-10059,Beyond Secret Eternity,2012,Comedy,88.0,5.7,456525,49.94,223.17
+MV-10060,Beyond Secret Justice,2005,Thriller,132.0,8.3,421399,45.07,171.17
+MV-10061,Beyond Secret Tomorrow,2011,Action,137.0,6.8,423918,88.35,225.05
+MV-10062,Beyond Shattered Labyrinth,2021,Drama,130.0,7.5,282261,33.48,88.22
+MV-10063,Beyond Silent Empire,2006,Drama,139.0,,489090,66.65,218.63
+MV-10064,Beyond Silent Symphony,2001,Thriller,125.0,6.7,140228,2.0,6.79
+MV-10065,Beyond Spectral Destiny,1997,Romance,112.0,5.8,195798,42.22,80.3
+MV-10066,Beyond Spectral Justice,2005,Comedy,,6.2,283659,42.65,114.18
+MV-10067,Beyond Starlight Symphony,2019,Horror,105.0,5.0,148850,22.87,65.6
+MV-10068,Beyond Starlight Voyage,2011,Sci-Fi,126.0,7.0,1161442,178.37,829.87
+MV-10069,Beyond Wild Dreams,2003,Animation,90.0,7.9,1599172,86.32,1147.1
+MV-10070,Beyond Wild Empire,2000,Adventure,146.0,6.8,482393,52.83,271.33
+MV-10071,Beyond Wild Justice,2007,Thriller,114.0,6.9,350749,32.83,78.77
+MV-10072,Brave Destiny,2023,Sci-Fi,127.0,8.5,568271,99.95,244.1
+MV-10073,Brave Empire,2007,Romance,120.0,7.6,399490,44.67,91.33
+MV-10074,Brave Frontier,2024,Action,115.0,6.4,1276618,158.24,918.17
+MV-10075,Brave Future,2012,Comedy,91.0,7.8,259855,14.84,59.97
+MV-10076,Brave Galaxy,2001,Drama,162.0,7.4,360292,39.77,139.7
+MV-10077,Brave Horizon,2022,Adventure,128.0,7.4,302633,21.57,98.36
+MV-10078,Brave Illusion,2011,Horror,99.0,6.9,306015,26.12,72.77
+MV-10079,Brave Kingdom,2017,Drama,132.0,7.4,298540,15.5,39.96
+MV-10080,Brave Sanctuary,2024,Thriller,110.0,6.8,483199,45.33,129.93
+MV-10081,Brave Silence,1990,Action,144.0,6.9,342467,41.07,118.14
+MV-10082,Brave Symphony,1994,Drama,151.0,6.6,334699,54.01,142.06
+MV-10083,Brave Tomorrow,2018,Documentary,98.0,8.4,286664,2.0,3.05
+MV-10084,Brave Wilderness,2005,Comedy,101.0,6.6,382268,25.03,114.56
+MV-10085,Brave Winter,2001,Drama,127.0,7.9,315828,9.83,15.33
+MV-10086,Chronicles of Ancient Horizon,1988,Thriller,102.0,6.5,208272,7.13,18.4
+MV-10087,Chronicles of Ancient Kingdom,1987,Horror,94.0,5.7,152032,8.43,44.68
+MV-10088,Chronicles of Cosmic Courage,2019,Drama,141.0,8.8,517768,39.43,150.97
+MV-10089,Chronicles of Cosmic Galaxy,1998,Sci-Fi,157.0,6.5,641038,104.29,312.56
+MV-10090,Chronicles of Crimson Labyrinth,2011,Thriller,129.0,7.0,277264,39.44,108.96
+MV-10091,Chronicles of Dark Horizon,2015,Drama,137.0,7.7,266650,2.0,5.87
+MV-10092,Chronicles of Dark Winter,2010,Drama,144.0,,345865,25.24,94.41
+MV-10093,Chronicles of Eternal Symphony,1987,Thriller,116.0,7.6,351525,48.76,92.73
+MV-10094,Chronicles of Hidden Storm,2019,Comedy,110.0,6.5,367989,42.69,191.38
+MV-10095,Chronicles of Hidden Symphony,1986,Animation,101.0,7.2,770745,145.28,477.11
+MV-10096,Chronicles of Infinite Galaxy,2019,Adventure,110.0,6.7,345619,45.33,163.95
+MV-10097,Chronicles of Infinite Glory,2022,Documentary,89.0,7.6,209233,9.67,11.19
+MV-10098,Chronicles of Last Frontier,2010,Comedy,111.0,6.3,293081,29.38,117.6
+MV-10099,Chronicles of Mystic Voyage,2013,Animation,102.0,,693614,103.29,457.45
+MV-10100,Chronicles of Radiant Glory,2011,Action,152.0,6.9,1022275,152.74,729.29
+MV-10101,Chronicles of Radiant Valley,2009,Comedy,114.0,6.6,201379,10.34,27.93
+MV-10102,Chronicles of Shattered Memory,2022,Drama,112.0,6.9,233828,20.78,76.71
+MV-10103,Chronicles of Silent Kingdom,2022,Drama,159.0,7.3,346073,45.36,155.16
+MV-10104,Chronicles of Silent Labyrinth,2007,Sci-Fi,158.0,5.6,1436991,139.16,1122.39
+MV-10105,Chronicles of Silent Tomorrow,2015,Action,139.0,7.3,575000,111.0,325.04
+MV-10106,Chronicles of Silent Voyage,2023,Comedy,106.0,6.9,220800,18.28,38.83
+MV-10107,Chronicles of Spectral Future,2024,Thriller,103.0,5.5,204242,46.02,97.6
+MV-10108,Chronicles of Starlight Justice,2012,Comedy,93.0,6.7,577764,76.96,355.2
+MV-10109,Cosmic Courage,2011,Thriller,122.0,8.7,262946,2.0,4.45
+MV-10110,Cosmic Destiny,2005,Comedy,99.0,6.6,246089,37.79,97.75
+MV-10111,Cosmic Dreams,2023,Adventure,129.0,6.1,878532,107.58,503.24
+MV-10112,Cosmic Eternity,1999,Adventure,147.0,6.9,642381,89.28,398.39
+MV-10113,Cosmic Illusion,2014,Action,134.0,6.8,895203,174.59,604.08
+MV-10114,Cosmic Justice,2005,Comedy,90.0,6.6,339973,48.45,173.93
+MV-10115,Cosmic Labyrinth,2005,Action,137.0,5.3,1727286,149.21,1367.65
+MV-10116,Cosmic Memory,2010,Horror,109.0,7.5,285460,21.98,94.29
+MV-10117,Cosmic Sanctuary,2024,Comedy,114.0,6.3,124452,2.0,7.29
+MV-10118,Cosmic Silence,1990,Comedy,109.0,5.3,168951,40.82,69.53
+MV-10119,Cosmic Storm,2014,Drama,158.0,7.0,268400,44.77,64.04
+MV-10120,Cosmic Symphony,1993,Action,135.0,5.7,417938,54.86,153.95
+MV-10121,Cosmic Tomorrow,2000,Action,117.0,5.9,1110631,208.29,784.66
+MV-10122,Cosmic Voyage,2010,Adventure,129.0,5.7,444600,118.7,290.81
+MV-10123,Cosmic Warrior,2012,Comedy,106.0,6.8,208813,15.43,43.02
+MV-10124,Cosmic Wilderness,2004,Action,131.0,6.3,549250,101.93,325.59
+MV-10125,Courage of Courage,2006,Horror,90.0,5.1,135355,14.21,51.97
+MV-10126,Courage of Illusion,1993,Adventure,145.0,6.5,360999,68.6,193.9
+MV-10127,Courage of Kingdom,2006,Action,138.0,6.0,1143403,176.39,857.12
+MV-10128,Courage of Labyrinth,2024,Action,139.0,6.9,464417,64.22,239.37
+MV-10129,Courage of Memory,2023,Comedy,111.0,5.7,189586,25.35,59.53
+MV-10130,Courage of Odyssey,2007,Animation,96.0,7.3,736208,110.04,420.94
+MV-10131,Courage of Silence,2014,Drama,144.0,7.0,353922,49.47,173.11
+MV-10132,Courage of Storm,2022,Animation,111.0,6.3,621474,95.95,421.88
+MV-10133,Courage of Valley,1985,Sci-Fi,154.0,5.5,360060,87.88,206.29
+MV-10134,Courage of Voyage,2020,Thriller,111.0,6.6,577080,79.0,344.53
+MV-10135,Courage of Warrior,2023,Drama,153.0,,238389,13.92,30.29
+MV-10136,Courage of Winter,1994,Action,148.0,6.3,971201,139.31,654.11
+MV-10137,Crimson Courage,2000,Action,115.0,7.0,595222,61.87,362.3
+MV-10138,Crimson Empire,2024,Drama,141.0,8.0,265728,13.85,48.57
+MV-10139,Crimson Future,2013,Sci-Fi,125.0,7.2,181051,2.0,8.04
+MV-10140,Crimson Glory,1986,Documentary,100.0,8.4,288933,19.16,50.77
+MV-10141,Crimson Illusion,2004,Thriller,98.0,6.6,310291,31.12,91.51
+MV-10142,Crimson Justice,2011,Sci-Fi,146.0,6.5,903589,189.13,643.5
+MV-10143,Crimson Labyrinth,2017,Drama,108.0,7.7,242737,30.46,52.05
+MV-10144,Crimson Memory,2018,Action,145.0,7.3,694614,88.62,429.14
+MV-10145,Crimson Sanctuary,2024,Drama,144.0,9.1,323534,19.3,47.99
+MV-10146,Crimson Symphony,2005,Thriller,,7.9,420441,42.77,156.77
+MV-10147,Crimson Valley,2013,Animation,88.0,7.2,1265110,148.32,924.14
+MV-10148,Crimson Voyage,2013,Sci-Fi,151.0,6.8,684104,104.19,411.29
+MV-10149,Crimson Warrior,2010,Drama,105.0,7.8,315177,8.37,26.91
+MV-10150,Crimson Wilderness,2000,Comedy,106.0,5.8,222533,67.47,101.49
+MV-10151,Crimson Winter,2024,Thriller,116.0,6.6,501639,78.77,287.55
+MV-10152,Dark Courage,2021,Action,113.0,7.1,718020,95.3,469.84
+MV-10153,Dark Empire,2012,Adventure,149.0,6.1,790288,123.35,491.41
+MV-10154,Dark Future,2015,Adventure,122.0,6.3,755278,125.17,520.14
+MV-10155,Dark Glory,2003,Thriller,103.0,6.2,271058,27.94,116.73
+MV-10156,Dark Horizon,2013,Action,121.0,5.6,638276,87.58,438.92
+MV-10157,Dark Illusion,2017,Comedy,110.0,5.9,307373,39.53,149.39
+MV-10158,Dark Justice,2012,Drama,144.0,7.8,450895,47.35,176.53
+MV-10159,Dark Labyrinth,2024,Comedy,99.0,5.3,432036,54.36,257.99
+MV-10160,Dark Odyssey,2015,Action,111.0,7.5,399515,39.67,179.17
+MV-10161,Dark Sanctuary,2008,Sci-Fi,134.0,6.6,662198,96.82,438.5
+MV-10162,Dark Storm,2019,Sci-Fi,129.0,6.6,1087008,133.43,753.42
+MV-10163,Dark Symphony,2000,Drama,150.0,8.1,400143,51.93,133.03
+MV-10164,Dark Valley,2009,Action,111.0,7.7,877834,143.32,572.06
+MV-10165,Dark Voyage,2007,Drama,143.0,8.3,366482,37.02,81.13
+MV-10166,Dark Warrior,2010,Drama,138.0,7.9,378686,48.46,129.56
+MV-10167,Dark Winter,2019,Adventure,139.0,8.5,776078,127.16,458.71
+MV-10168,Destiny of Courage,2012,Drama,151.0,7.1,346873,49.75,104.08
+MV-10169,Destiny of Destiny,2019,Action,113.0,6.6,917116,141.73,620.59
+MV-10170,Destiny of Dreams,2014,Drama,129.0,7.3,516024,53.44,107.55
+MV-10171,Destiny of Empire,2007,Adventure,140.0,6.1,480791,160.15,310.57
+MV-10172,Destiny of Galaxy,2020,Thriller,117.0,7.2,513048,74.74,298.18
+MV-10173,Destiny of Glory,2003,Comedy,96.0,6.2,242439,4.04,7.02
+MV-10174,Destiny of Horizon,2002,Action,120.0,6.8,1352191,153.62,924.71
+MV-10175,Destiny of Illusion,2012,Horror,82.0,,183247,18.45,60.3
+MV-10176,Destiny of Justice,2004,Animation,97.0,7.4,766896,110.84,502.86
+MV-10177,Destiny of Memory,1985,Comedy,109.0,6.6,248337,20.64,93.26
+MV-10178,Destiny of Silence,2016,Romance,113.0,6.9,237868,17.03,37.07
+MV-10179,Destiny of Storm,2012,Animation,94.0,8.7,438117,54.87,158.64
+MV-10180,Destiny of Tomorrow,2011,Romance,113.0,7.0,203481,14.91,30.58
+MV-10181,Destiny of Valley,2024,Sci-Fi,126.0,6.6,1238037,173.58,918.52
+MV-10182,Destiny of Voyage,2014,Thriller,119.0,6.9,282527,23.01,82.77
+MV-10183,Destiny of Warrior,2021,Action,138.0,6.3,260894,42.25,98.46
+MV-10184,Dreams of Brave Frontier,1998,Horror,101.0,5.5,109703,4.53,19.65
+MV-10185,Dreams of Brave Memory,2014,Thriller,108.0,6.8,305542,40.48,121.28
+MV-10186,Dreams of Cosmic Storm,2021,Sci-Fi,116.0,7.1,765545,162.58,512.79
+MV-10187,Dreams of Courage,2014,Action,136.0,5.9,717916,127.88,472.23
+MV-10188,Dreams of Destiny,2017,Horror,82.0,5.3,107362,7.29,19.74
+MV-10189,Dreams of Eternity,2008,Adventure,149.0,,380770,84.49,182.66
+MV-10190,Dreams of Frontier,1994,Drama,156.0,7.5,227797,13.48,25.37
+MV-10191,Dreams of Glory,2011,Adventure,120.0,5.7,653986,140.05,450.6
+MV-10192,Dreams of Golden Eternity,2009,Thriller,124.0,7.7,383992,36.61,157.71
+MV-10193,Dreams of Hidden Dreams,2021,Adventure,132.0,6.1,619249,82.2,421.26
+MV-10194,Dreams of Horizon,2003,Action,130.0,7.9,889687,158.84,556.14
+MV-10195,Dreams of Infinite Odyssey,2024,Action,129.0,6.8,703220,77.56,413.45
+MV-10196,Dreams of Iron Memory,2023,Romance,107.0,7.1,225539,11.85,51.92
+MV-10197,Dreams of Justice,2003,Comedy,99.0,5.2,90115,3.33,7.54
+MV-10198,Dreams of Last Valley,2007,Adventure,117.0,6.6,317424,50.63,158.35
+MV-10199,Dreams of Midnight Odyssey,2022,Action,147.0,6.7,970506,163.7,682.99
+MV-10200,Dreams of Mystic Tomorrow,2024,Thriller,120.0,8.3,224724,2.0,8.27
+MV-10201,Dreams of Mystic Warrior,2011,Comedy,109.0,6.1,154492,8.91,22.67
+MV-10202,Dreams of Radiant Courage,2006,Thriller,101.0,7.7,339050,40.37,111.42
+MV-10203,Dreams of Sanctuary,2013,Comedy,110.0,6.6,418320,72.6,170.64
+MV-10204,Dreams of Secret Valley,2017,Drama,139.0,7.5,229237,14.24,49.25
+MV-10205,Dreams of Shattered Dreams,2004,Comedy,114.0,6.8,256062,27.73,77.72
+MV-10206,Dreams of Silent Storm,2018,Drama,157.0,8.2,208260,2.0,2.77
+MV-10207,Dreams of Starlight Eternity,1990,Documentary,87.0,7.2,191219,9.8,13.48
+MV-10208,Dreams of Starlight Voyage,1989,Animation,104.0,6.9,462183,104.68,258.32
+MV-10209,Dreams of Symphony,2009,Action,148.0,6.8,631387,139.77,364.2
+MV-10210,Dreams of Tomorrow,2008,Sci-Fi,141.0,6.3,365764,78.8,179.88
+MV-10211,Dreams of Wild Future,2006,Comedy,95.0,5.0,278512,26.95,97.43
+MV-10212,Dreams of Wilderness,2012,Sci-Fi,122.0,6.4,773978,106.78,456.46
+MV-10213,Echoes of Brave Frontier,2006,Horror,89.0,5.4,266734,17.4,129.03
+MV-10214,Echoes of Brave Labyrinth,2001,Animation,105.0,7.2,426678,94.25,214.73
+MV-10215,Echoes of Brave Symphony,2006,Action,115.0,8.4,403953,76.63,155.52
+MV-10216,Echoes of Cosmic Winter,2024,Horror,93.0,5.3,288921,20.21,151.21
+MV-10217,Echoes of Crimson Courage,2010,Comedy,89.0,6.2,342022,38.72,151.57
+MV-10218,Echoes of Crimson Destiny,2011,Documentary,85.0,7.9,217478,2.89,4.72
+MV-10219,Echoes of Crimson Symphony,2014,Drama,,7.5,473335,56.4,193.37
+MV-10220,Echoes of Crimson Warrior,2024,Thriller,121.0,6.6,189105,20.07,47.56
+MV-10221,Echoes of Dark Eternity,2003,Sci-Fi,127.0,7.0,873900,45.75,568.98
+MV-10222,Echoes of Eternal Destiny,2017,Sci-Fi,119.0,7.2,818214,167.79,543.7
+MV-10223,Echoes of Eternal Silence,2017,Drama,146.0,8.7,313896,15.85,29.46
+MV-10224,Echoes of Forgotten Empire,2015,Animation,108.0,8.7,596646,66.49,279.8
+MV-10225,Echoes of Frozen Sanctuary,1993,Drama,155.0,7.4,305173,53.51,100.75
+MV-10226,Echoes of Frozen Winter,2016,Thriller,128.0,7.1,194424,5.96,23.14
+MV-10227,Echoes of Golden Kingdom,1991,Comedy,104.0,6.1,255577,29.23,120.47
+MV-10228,Echoes of Hidden Dreams,2014,Comedy,93.0,6.1,565762,53.59,252.47
+MV-10229,Echoes of Iron Voyage,2018,Thriller,105.0,6.2,273067,37.5,134.22
+MV-10230,Echoes of Starlight Empire,2002,Action,149.0,7.2,789460,146.19,520.75
+MV-10231,Echoes of Wild Galaxy,2021,Drama,133.0,9.0,475381,44.8,87.68
+MV-10232,Echoes of Wild Illusion,1988,Drama,115.0,6.7,242007,25.77,64.04
+MV-10233,Edge of Ancient Valley,2021,Action,129.0,7.9,693373,86.21,410.96
+MV-10234,Edge of Cosmic Glory,2011,Horror,99.0,4.7,248033,27.83,143.97
+MV-10235,Edge of Cosmic Justice,2002,Romance,94.0,6.3,278938,25.18,100.83
+MV-10236,Edge of Cosmic Memory,1998,Drama,162.0,8.8,293561,5.06,19.91
+MV-10237,Edge of Eternal Empire,2023,Action,150.0,7.9,483008,43.08,228.83
+MV-10238,Edge of Eternal Justice,1992,Drama,107.0,,324647,52.82,94.86
+MV-10239,Edge of Forgotten Horizon,2001,Drama,149.0,7.6,464868,58.22,121.64
+MV-10240,Edge of Forgotten Valley,2007,Sci-Fi,144.0,6.0,608853,88.44,415.24
+MV-10241,Edge of Frozen Empire,2015,Thriller,116.0,7.6,233774,8.46,14.92
+MV-10242,Edge of Golden Labyrinth,2013,Drama,121.0,8.3,412525,17.29,50.55
+MV-10243,Edge of Infinite Voyage,1997,Comedy,,6.1,369800,38.64,108.49
+MV-10244,Edge of Iron Glory,2005,Drama,137.0,7.5,299356,23.45,74.68
+MV-10245,Edge of Iron Valley,2003,Adventure,,7.3,491577,89.69,267.78
+MV-10246,Edge of Last Empire,2002,Documentary,97.0,8.1,228997,3.7,7.52
+MV-10247,Edge of Lost Galaxy,2010,Drama,151.0,7.3,182148,2.0,4.57
+MV-10248,Edge of Midnight Valley,2017,Comedy,86.0,5.7,343835,71.59,153.4
+MV-10249,Edge of Mystic Odyssey,2002,Adventure,142.0,5.7,581298,94.23,396.39
+MV-10250,Edge of Secret Horizon,2008,Romance,98.0,6.2,252128,19.07,93.35
+MV-10251,Edge of Spectral Labyrinth,2009,Action,126.0,6.7,797886,163.51,539.64
+MV-10252,Edge of Starlight Courage,2024,Drama,124.0,7.2,319787,47.93,135.99
+MV-10253,Empire of Courage,2023,Drama,116.0,8.2,323933,27.49,62.88
+MV-10254,Empire of Empire,2020,Thriller,105.0,,240147,29.37,56.86
+MV-10255,Empire of Frontier,2003,Action,110.0,5.5,893966,164.67,661.54
+MV-10256,Empire of Illusion,1991,Drama,122.0,8.2,287839,36.94,65.74
+MV-10257,Empire of Justice,2006,Thriller,130.0,7.5,179721,2.0,5.01
+MV-10258,Empire of Silence,2004,Drama,140.0,7.1,309233,32.18,80.21
+MV-10259,Empire of Storm,2012,Horror,98.0,6.2,226612,6.93,44.11
+MV-10260,Empire of Symphony,2019,Comedy,103.0,6.7,219196,19.38,72.39
+MV-10261,Empire of Valley,2021,Drama,129.0,8.5,275633,8.22,15.16
+MV-10262,Empire of Wilderness,2021,Thriller,131.0,6.3,511592,79.31,321.07
+MV-10263,Empire of Winter,2008,Action,154.0,7.4,598396,139.57,315.12
+MV-10264,Eternal Courage,2017,Documentary,78.0,6.9,234564,15.12,39.01
+MV-10265,Eternal Destiny,2006,Thriller,108.0,7.2,606525,95.89,353.45
+MV-10266,Eternal Empire,1991,Comedy,97.0,6.2,364778,33.5,87.35
+MV-10267,Eternal Eternity,2017,Sci-Fi,154.0,7.5,350196,29.28,150.95
+MV-10268,Eternal Frontier,1985,Comedy,87.0,6.5,285890,35.22,133.4
+MV-10269,Eternal Future,2010,Romance,96.0,6.8,335115,34.9,131.72
+MV-10270,Eternal Galaxy,2007,Action,111.0,7.2,673848,142.57,425.25
+MV-10271,Eternal Glory,2017,Thriller,96.0,6.5,230002,29.18,71.21
+MV-10272,Eternal Illusion,2019,Drama,135.0,6.9,220076,26.81,35.66
+MV-10273,Eternal Justice,2006,Action,127.0,7.3,756696,94.72,475.63
+MV-10274,Eternal Labyrinth,2020,Adventure,115.0,6.3,653072,129.44,446.4
+MV-10275,Eternal Memory,2005,Horror,105.0,,356270,27.12,178.83
+MV-10276,Eternal Sanctuary,2011,Comedy,109.0,7.3,374315,28.23,85.43
+MV-10277,Eternal Tomorrow,2018,Comedy,99.0,7.4,353082,31.13,131.09
+MV-10278,Eternal Valley,2017,Adventure,117.0,7.3,774468,98.44,457.65
+MV-10279,Eternal Voyage,2024,Animation,85.0,8.3,1412405,68.56,975.19
+MV-10280,Eternity of Courage,2003,Drama,116.0,7.2,197095,12.64,34.25
+MV-10281,Eternity of Dreams,2016,Action,117.0,6.7,599562,127.25,365.92
+MV-10282,Eternity of Eternity,2015,Comedy,107.0,7.3,290026,29.8,105.51
+MV-10283,Eternity of Galaxy,2022,Adventure,116.0,5.6,367394,44.1,203.42
+MV-10284,Eternity of Glory,2000,Drama,128.0,7.6,260123,19.06,53.99
+MV-10285,Eternity of Horizon,2018,Comedy,100.0,6.7,221428,15.1,65.13
+MV-10286,Eternity of Illusion,2014,Horror,95.0,5.5,213996,17.88,104.3
+MV-10287,Eternity of Kingdom,2004,Drama,162.0,8.1,397024,42.37,135.0
+MV-10288,Eternity of Labyrinth,2011,Action,130.0,7.3,781078,114.91,498.52
+MV-10289,Eternity of Memory,2007,Action,119.0,5.3,660197,124.63,470.44
+MV-10290,Eternity of Sanctuary,2014,Comedy,98.0,6.6,442079,64.11,257.1
+MV-10291,Eternity of Silence,2022,Action,135.0,6.3,311040,77.65,151.28
+MV-10292,Eternity of Storm,2014,Thriller,99.0,6.6,255064,32.54,104.46
+MV-10293,Eternity of Valley,2015,Drama,156.0,7.4,290525,29.25,88.1
+MV-10294,Eternity of Voyage,2012,Thriller,105.0,7.2,210070,15.0,40.23
+MV-10295,Flight of Brave Empire,1990,Horror,,6.9,269720,18.01,56.66
+MV-10296,Flight of Dark Illusion,2003,Horror,100.0,6.4,288873,9.15,45.1
+MV-10297,Flight of Dark Justice,2012,Drama,113.0,7.2,438390,57.65,223.75
+MV-10298,Flight of Dark Odyssey,2006,Drama,162.0,7.4,541269,38.72,133.96
+MV-10299,Flight of Eternal Horizon,2001,Comedy,92.0,7.0,151181,2.0,4.95
+MV-10300,Flight of Frozen Destiny,2012,Action,119.0,6.6,265476,28.55,74.66
+MV-10301,Flight of Furious Frontier,2006,Action,113.0,7.7,2786560,179.23,2085.89
+MV-10302,Flight of Furious Warrior,2004,Sci-Fi,156.0,7.6,619061,167.73,362.68
+MV-10303,Flight of Golden Frontier,2011,Drama,115.0,7.7,396044,34.82,88.4
+MV-10304,Flight of Hidden Eternity,1998,Drama,116.0,7.2,261904,33.79,71.61
+MV-10305,Flight of Hidden Wilderness,2023,Action,123.0,7.2,435143,79.85,151.85
+MV-10306,Flight of Infinite Horizon,2021,Sci-Fi,127.0,7.5,547725,65.63,303.34
+MV-10307,Flight of Infinite Memory,2017,Drama,120.0,8.5,325661,27.36,68.23
+MV-10308,Flight of Infinite Odyssey,1995,Sci-Fi,122.0,8.0,259360,2.0,3.78
+MV-10309,Flight of Iron Sanctuary,2019,Comedy,105.0,6.9,247211,39.82,62.1
+MV-10310,Flight of Lost Courage,2020,Romance,117.0,5.6,263054,34.91,72.6
+MV-10311,Flight of Radiant Horizon,2019,Romance,106.0,6.6,396124,42.75,169.85
+MV-10312,Flight of Secret Destiny,1996,Comedy,104.0,6.6,155739,2.0,8.3
+MV-10313,Flight of Secret Illusion,2016,Comedy,96.0,6.6,219898,20.96,60.02
+MV-10314,Flight of Silent Illusion,2020,Action,140.0,6.9,645826,80.98,415.19
+MV-10315,Flight of Wild Voyage,2014,Comedy,111.0,7.2,340079,41.64,129.14
+MV-10316,Flight of Wild Warrior,2016,Sci-Fi,156.0,6.8,763560,175.59,506.87
+MV-10317,Forgotten Dreams,2011,Adventure,121.0,7.4,404888,80.97,163.48
+MV-10318,Forgotten Frontier,2013,Sci-Fi,122.0,6.8,618592,115.13,330.32
+MV-10319,Forgotten Galaxy,1988,Adventure,118.0,5.7,161865,2.0,10.23
+MV-10320,Forgotten Horizon,2015,Action,133.0,7.4,578199,137.32,266.38
+MV-10321,Forgotten Illusion,1993,Drama,149.0,8.5,448398,74.52,164.42
+MV-10322,Forgotten Kingdom,2010,Horror,100.0,,249659,9.71,70.27
+MV-10323,Forgotten Memory,2005,Action,130.0,7.9,533602,73.84,217.42
+MV-10324,Forgotten Sanctuary,2013,Sci-Fi,133.0,7.0,848002,104.74,582.72
+MV-10325,Forgotten Valley,1998,Comedy,85.0,,154281,8.28,35.6
+MV-10326,Forgotten Wilderness,2017,Drama,141.0,8.2,305873,22.42,45.5
+MV-10327,Forgotten Winter,2019,Documentary,102.0,7.0,225624,4.51,13.79
+MV-10328,Frontier of Courage,2000,Drama,132.0,8.7,502054,58.3,205.49
+MV-10329,Frontier of Frontier,1995,Documentary,88.0,7.7,206810,2.0,4.37
+MV-10330,Frontier of Future,1999,Documentary,81.0,7.1,192222,11.48,18.1
+MV-10331,Frontier of Galaxy,2021,Horror,88.0,4.5,251777,27.88,138.54
+MV-10332,Frontier of Glory,2013,Sci-Fi,124.0,5.8,229349,43.54,84.51
+MV-10333,Frontier of Kingdom,2011,Thriller,117.0,6.5,325963,52.26,113.76
+MV-10334,Frontier of Labyrinth,1995,Adventure,147.0,6.7,286157,49.31,126.95
+MV-10335,Frontier of Sanctuary,2016,Comedy,94.0,6.7,215778,19.99,65.19
+MV-10336,Frontier of Silence,2021,Action,110.0,6.5,892782,138.08,612.24
+MV-10337,Frontier of Storm,2020,Thriller,107.0,6.8,246740,37.35,73.92
+MV-10338,Frontier of Voyage,2015,Action,139.0,8.4,1214523,136.86,810.87
+MV-10339,Frozen Courage,1992,Action,135.0,6.1,439288,77.26,231.61
+MV-10340,Frozen Destiny,1996,Comedy,100.0,6.5,282051,29.15,121.26
+MV-10341,Frozen Empire,1989,Thriller,121.0,7.6,376354,36.06,144.36
+MV-10342,Frozen Eternity,2004,Adventure,137.0,6.9,715402,146.38,432.7
+MV-10343,Frozen Frontier,1998,Comedy,91.0,7.0,300517,28.96,112.67
+MV-10344,Frozen Labyrinth,2004,Animation,91.0,6.7,330145,53.54,155.99
+MV-10345,Frozen Memory,2009,Sci-Fi,135.0,7.3,1111823,122.56,764.56
+MV-10346,Frozen Sanctuary,2023,Adventure,133.0,5.9,161577,14.14,27.68
+MV-10347,Frozen Valley,2015,Thriller,115.0,6.3,252529,49.9,108.5
+MV-10348,Frozen Warrior,2020,Horror,108.0,5.8,215568,21.41,92.1
+MV-10349,Frozen Wilderness,2017,Drama,134.0,8.4,344503,30.99,52.75
+MV-10350,Frozen Winter,1996,Adventure,141.0,6.8,308814,55.91,134.47
+MV-10351,Furious Courage,2018,Drama,120.0,6.7,387135,54.11,208.66
+MV-10352,Furious Destiny,2005,Romance,124.0,7.2,217505,17.14,47.88
+MV-10353,Furious Empire,2015,Documentary,109.0,8.3,241834,2.0,4.94
+MV-10354,Furious Eternity,2007,Comedy,99.0,6.1,373407,39.61,146.75
+MV-10355,Furious Future,2024,Comedy,86.0,6.4,212378,20.66,60.8
+MV-10356,Furious Galaxy,2004,Horror,85.0,5.0,226242,16.2,82.97
+MV-10357,Furious Illusion,2005,Comedy,92.0,6.6,358017,34.81,131.09
+MV-10358,Furious Odyssey,2023,Adventure,126.0,6.8,549576,85.7,282.6
+MV-10359,Furious Sanctuary,1987,Drama,125.0,,407558,47.29,135.34
+MV-10360,Furious Silence,2017,Drama,139.0,7.5,296232,25.64,102.05
+MV-10361,Furious Symphony,2018,Documentary,80.0,7.4,216316,11.51,30.77
+MV-10362,Furious Voyage,2020,Sci-Fi,132.0,6.6,386640,56.16,192.43
+MV-10363,Furious Wilderness,2024,Adventure,147.0,,584679,73.39,293.51
+MV-10364,Future of Empire,2024,Comedy,86.0,,333044,39.64,91.11
+MV-10365,Future of Eternity,1991,Sci-Fi,115.0,7.3,856702,131.79,580.21
+MV-10366,Future of Frontier,2020,Thriller,131.0,6.8,328333,39.33,138.62
+MV-10367,Future of Future,2016,Thriller,99.0,7.9,489529,65.61,194.05
+MV-10368,Future of Galaxy,2016,Sci-Fi,153.0,6.4,1197645,219.01,884.71
+MV-10369,Future of Glory,1997,Thriller,131.0,7.3,298722,21.63,30.57
+MV-10370,Future of Horizon,2016,Action,115.0,6.7,504690,81.41,281.8
+MV-10371,Future of Justice,2024,Comedy,98.0,6.4,335068,33.84,141.26
+MV-10372,Future of Odyssey,2022,Horror,102.0,5.3,190745,27.23,83.0
+MV-10373,Future of Sanctuary,2010,Comedy,109.0,6.4,203802,42.98,65.85
+MV-10374,Future of Silence,1988,Sci-Fi,129.0,6.6,1105648,132.64,734.25
+MV-10375,Future of Tomorrow,2008,Comedy,108.0,6.8,447727,63.38,226.16
+MV-10376,Future of Wilderness,2020,Thriller,120.0,7.2,392458,40.71,148.81
+MV-10377,Future of Winter,2017,Horror,106.0,7.8,223908,2.0,14.12
+MV-10378,Galaxy of Courage,2011,Comedy,102.0,6.0,324470,35.65,125.85
+MV-10379,Galaxy of Dreams,1990,Drama,114.0,8.7,359910,59.41,101.09
+MV-10380,Galaxy of Empire,2010,Drama,163.0,6.8,221939,20.43,35.16
+MV-10381,Galaxy of Frontier,2011,Thriller,119.0,6.6,372748,45.35,188.3
+MV-10382,Galaxy of Future,2023,Adventure,122.0,5.5,585518,64.78,328.74
+MV-10383,Galaxy of Galaxy,2016,Drama,123.0,8.0,379976,38.21,145.57
+MV-10384,Galaxy of Illusion,2006,Horror,98.0,6.7,196335,10.45,26.43
+MV-10385,Galaxy of Kingdom,2013,Comedy,95.0,7.1,226248,7.63,32.88
+MV-10386,Galaxy of Memory,1991,Action,148.0,6.7,459983,28.7,237.76
+MV-10387,Galaxy of Odyssey,2024,Romance,110.0,7.0,264369,52.13,95.66
+MV-10388,Galaxy of Sanctuary,2008,Comedy,102.0,6.2,251183,30.88,90.1
+MV-10389,Galaxy of Silence,2011,Action,124.0,7.4,924461,182.1,599.32
+MV-10390,Galaxy of Voyage,2008,Drama,143.0,7.7,313127,30.51,96.58
+MV-10391,Galaxy of Warrior,2017,Drama,161.0,7.8,314772,52.38,101.8
+MV-10392,Glory of Courage,2016,Comedy,95.0,5.2,200262,30.69,98.19
+MV-10393,Glory of Destiny,2017,Drama,,7.6,373627,45.58,147.84
+MV-10394,Glory of Empire,2004,Sci-Fi,143.0,6.3,485588,68.51,280.19
+MV-10395,Glory of Eternity,2006,Action,122.0,,385737,103.81,219.92
+MV-10396,Glory of Galaxy,1997,Thriller,99.0,6.0,420416,59.34,242.37
+MV-10397,Glory of Glory,2016,Drama,123.0,6.5,250013,36.37,101.9
+MV-10398,Glory of Justice,1988,Comedy,114.0,5.4,176657,16.66,64.04
+MV-10399,Glory of Kingdom,2014,Sci-Fi,152.0,8.1,532816,104.92,233.5
+MV-10400,Glory of Memory,2021,Animation,91.0,7.2,618814,55.55,367.15
+MV-10401,Glory of Sanctuary,2022,Drama,106.0,8.3,248754,2.0,7.74
+MV-10402,Glory of Symphony,2011,Romance,118.0,6.4,246866,28.87,78.2
+MV-10403,Glory of Tomorrow,2011,Thriller,133.0,6.8,272738,51.36,106.72
+MV-10404,Glory of Valley,1992,Thriller,131.0,7.3,348283,51.6,134.66
+MV-10405,Glory of Wilderness,2016,Action,130.0,6.9,302512,30.96,62.77
+MV-10406,Golden Courage,2020,Drama,150.0,7.9,248155,2.0,4.53
+MV-10407,Golden Dreams,2003,Drama,152.0,8.0,312209,46.76,84.75
+MV-10408,Golden Future,2010,Thriller,113.0,7.8,255943,22.95,55.41
+MV-10409,Golden Glory,2020,Comedy,96.0,5.6,270928,74.78,129.7
+MV-10410,Golden Illusion,2021,Romance,114.0,7.4,256800,28.58,74.8
+MV-10411,Golden Justice,2003,Action,152.0,7.4,341547,20.43,106.45
+MV-10412,Golden Kingdom,2013,Drama,113.0,7.4,265319,21.98,76.51
+MV-10413,Golden Labyrinth,2001,Sci-Fi,147.0,6.9,925225,162.78,641.11
+MV-10414,Golden Symphony,1995,Comedy,99.0,6.5,398800,35.67,163.89
+MV-10415,Golden Warrior,2022,Thriller,130.0,8.3,383080,30.62,127.28
+MV-10416,Heart of Ancient Sanctuary,2020,Sci-Fi,158.0,8.1,452072,43.64,201.22
+MV-10417,Heart of Ancient Symphony,2019,Romance,116.0,5.7,282009,30.35,131.53
+MV-10418,Heart of Ancient Voyage,1989,Horror,100.0,5.9,134199,2.0,11.79
+MV-10419,Heart of Ancient Wilderness,2021,Sci-Fi,123.0,7.2,1052497,156.01,734.23
+MV-10420,Heart of Brave Kingdom,2010,Sci-Fi,133.0,7.9,203987,2.0,7.9
+MV-10421,Heart of Crimson Storm,2007,Animation,99.0,7.4,846533,83.22,533.34
+MV-10422,Heart of Dark Glory,2013,Comedy,97.0,6.6,385527,49.54,200.06
+MV-10423,Heart of Eternal Storm,1994,Drama,162.0,7.8,268922,35.19,60.65
+MV-10424,Heart of Forgotten Tomorrow,2018,Comedy,93.0,6.8,189184,26.13,41.94
+MV-10425,Heart of Frozen Sanctuary,2014,Comedy,93.0,6.0,240806,21.1,87.21
+MV-10426,Heart of Furious Sanctuary,2001,Sci-Fi,115.0,5.8,263176,44.09,99.26
+MV-10427,Heart of Golden Illusion,2001,Sci-Fi,147.0,7.4,1697686,225.09,1248.06
+MV-10428,Heart of Golden Memory,2001,Thriller,114.0,8.2,425303,40.26,154.56
+MV-10429,Heart of Hidden Courage,1990,Drama,159.0,7.4,268730,28.8,62.09
+MV-10430,Heart of Infinite Valley,2014,Sci-Fi,155.0,7.0,607479,79.12,309.14
+MV-10431,Heart of Iron Labyrinth,2021,Comedy,112.0,7.2,308476,30.48,84.34
+MV-10432,Heart of Last Silence,1986,Sci-Fi,136.0,8.3,1018103,106.84,650.25
+MV-10433,Heart of Lost Symphony,1989,Thriller,122.0,7.8,303624,16.76,59.53
+MV-10434,Heart of Lost Warrior,2014,Comedy,99.0,6.4,314890,52.26,156.04
+MV-10435,Heart of Mystic Future,2020,Drama,123.0,7.9,255337,22.46,43.43
+MV-10436,Heart of Mystic Winter,2007,Drama,151.0,7.0,237518,16.16,27.71
+MV-10437,Heart of Radiant Memory,2007,Adventure,115.0,7.2,204547,2.0,8.79
+MV-10438,Heart of Radiant Wilderness,2014,Romance,118.0,6.7,220201,26.6,68.79
+MV-10439,Heart of Secret Labyrinth,2004,Sci-Fi,128.0,7.3,304784,17.94,79.44
+MV-10440,Heart of Silent Silence,1987,Drama,125.0,8.0,200493,2.0,2.63
+MV-10441,Heart of Spectral Eternity,2018,Action,128.0,6.9,529746,123.77,280.76
+MV-10442,Heart of Wild Winter,2015,Sci-Fi,142.0,6.9,788288,191.85,513.61
+MV-10443,Hidden Courage,2014,Horror,97.0,6.6,361804,16.9,126.11
+MV-10444,Hidden Empire,2018,Drama,153.0,7.6,210041,2.0,7.16
+MV-10445,Hidden Future,2016,Drama,149.0,7.4,245717,19.18,62.57
+MV-10446,Hidden Galaxy,2002,Sci-Fi,130.0,6.6,458876,54.18,249.5
+MV-10447,Hidden Illusion,2008,Comedy,87.0,5.8,403209,58.58,213.24
+MV-10448,Hidden Labyrinth,1997,Comedy,91.0,6.6,320145,52.9,154.19
+MV-10449,Hidden Odyssey,1997,Drama,161.0,7.2,329913,41.95,91.4
+MV-10450,Hidden Sanctuary,2016,Thriller,122.0,6.8,473353,73.5,265.1
+MV-10451,Hidden Valley,2021,Adventure,118.0,7.1,536689,102.62,302.3
+MV-10452,Hidden Voyage,2024,Animation,105.0,8.1,1773441,90.1,1265.18
+MV-10453,Horizon of Courage,2015,Thriller,129.0,,292448,48.7,85.04
+MV-10454,Horizon of Destiny,2001,Thriller,130.0,7.4,354661,50.05,95.14
+MV-10455,Horizon of Empire,1995,Drama,146.0,8.3,309545,31.4,75.45
+MV-10456,Horizon of Frontier,2020,Thriller,,8.8,543588,51.88,201.36
+MV-10457,Horizon of Glory,2014,Action,136.0,6.4,485610,143.7,303.1
+MV-10458,Horizon of Illusion,2015,Thriller,104.0,6.3,505835,76.64,314.15
+MV-10459,Horizon of Justice,2019,Action,110.0,7.3,364105,29.24,101.5
+MV-10460,Horizon of Sanctuary,2017,Comedy,112.0,6.5,249937,2.0,6.62
+MV-10461,Horizon of Silence,2020,Drama,164.0,8.0,231681,13.59,31.12
+MV-10462,Horizon of Symphony,1990,Comedy,85.0,5.6,138753,2.0,3.15
+MV-10463,Horizon of Tomorrow,2018,Drama,122.0,,242525,39.72,67.91
+MV-10464,Horizon of Voyage,2021,Drama,118.0,7.1,260675,32.92,87.18
+MV-10465,Horizon of Warrior,2005,Documentary,102.0,7.6,201616,9.47,21.14
+MV-10466,Horizon of Wilderness,2016,Action,136.0,7.0,319044,29.24,118.8
+MV-10467,Illusion of Destiny,2006,Thriller,118.0,7.4,346542,37.27,141.39
+MV-10468,Illusion of Dreams,2023,Adventure,,7.8,714473,88.55,435.5
+MV-10469,Illusion of Frontier,1988,Documentary,103.0,7.3,216263,2.72,4.94
+MV-10470,Illusion of Future,2014,Thriller,104.0,6.4,156127,10.34,29.63
+MV-10471,Illusion of Galaxy,2000,Adventure,148.0,6.1,677828,153.17,455.98
+MV-10472,Illusion of Illusion,2017,Comedy,103.0,6.2,266507,27.66,119.94
+MV-10473,Illusion of Memory,2001,Comedy,96.0,6.6,336319,51.76,136.01
+MV-10474,Illusion of Odyssey,2003,Action,110.0,6.8,1521168,201.52,1067.87
+MV-10475,Illusion of Valley,2012,Sci-Fi,155.0,5.3,757795,135.75,494.34
+MV-10476,Illusion of Warrior,2022,Sci-Fi,124.0,6.8,464234,107.84,242.04
+MV-10477,Illusion of Wilderness,2002,Comedy,109.0,6.6,228564,51.17,77.71
+MV-10478,Illusion of Winter,1999,Drama,110.0,7.9,209142,2.0,2.74
+MV-10479,Infinite Empire,2018,Sci-Fi,123.0,,1352303,241.85,909.71
+MV-10480,Infinite Frontier,2012,Drama,117.0,8.8,452522,32.19,89.53
+MV-10481,Infinite Future,2022,Thriller,110.0,6.5,287055,38.31,125.49
+MV-10482,Infinite Glory,1999,Sci-Fi,122.0,8.4,903553,257.27,540.38
+MV-10483,Infinite Horizon,2016,Sci-Fi,123.0,8.4,752455,111.4,434.08
+MV-10484,Infinite Sanctuary,2003,Horror,99.0,,207086,20.51,59.71
+MV-10485,Infinite Silence,2000,Adventure,145.0,6.8,916752,126.51,632.82
+MV-10486,Infinite Storm,2017,Action,129.0,7.7,543836,145.83,297.67
+MV-10487,Infinite Tomorrow,2014,Horror,91.0,5.8,110583,2.0,8.68
+MV-10488,Infinite Voyage,2018,Thriller,100.0,6.8,289647,28.62,124.2
+MV-10489,Infinite Warrior,2006,Drama,161.0,8.0,461131,54.28,164.17
+MV-10490,Infinite Winter,2011,Drama,111.0,8.9,422816,30.84,88.32
+MV-10491,Iron Destiny,2010,Comedy,87.0,6.4,377545,73.35,201.8
+MV-10492,Iron Dreams,2024,Action,137.0,6.8,1196095,164.58,880.07
+MV-10493,Iron Empire,2005,Thriller,97.0,6.7,265220,28.45,69.38
+MV-10494,Iron Eternity,2005,Adventure,139.0,7.2,222036,22.55,52.01
+MV-10495,Iron Future,2008,Drama,161.0,7.3,286448,38.8,91.88
+MV-10496,Iron Kingdom,2014,Drama,152.0,7.0,285139,30.54,100.24
+MV-10497,Iron Odyssey,2004,Animation,92.0,7.4,194734,2.48,9.14
+MV-10498,Iron Sanctuary,2022,Drama,106.0,7.3,265363,39.11,53.61
+MV-10499,Iron Silence,2004,Action,144.0,6.8,790291,183.22,505.4
+MV-10500,Iron Storm,2022,Thriller,104.0,7.0,343289,43.73,158.51
+MV-10501,Iron Warrior,1995,Thriller,112.0,6.9,270622,25.1,92.47
+MV-10502,Justice of Courage,2016,Drama,124.0,8.4,292783,34.59,47.76
+MV-10503,Justice of Destiny,2022,Drama,114.0,7.5,313720,35.71,109.92
+MV-10504,Justice of Dreams,2000,Drama,116.0,7.6,291274,29.12,75.13
+MV-10505,Justice of Future,2024,Thriller,107.0,6.6,267196,19.0,65.94
+MV-10506,Justice of Glory,2011,Thriller,116.0,6.3,255220,48.67,111.21
+MV-10507,Justice of Labyrinth,2023,Comedy,92.0,6.5,255850,4.22,14.17
+MV-10508,Justice of Memory,2016,Sci-Fi,123.0,7.9,934170,152.06,611.06
+MV-10509,Justice of Storm,2006,Adventure,111.0,7.6,326094,61.6,119.07
+MV-10510,Justice of Symphony,2001,Drama,147.0,7.5,403105,56.56,179.28
+MV-10511,Justice of Valley,2006,Action,117.0,7.8,556995,23.58,297.95
+MV-10512,Justice of Voyage,1994,Sci-Fi,137.0,7.3,1017304,196.35,703.78
+MV-10513,Justice of Wilderness,1999,Comedy,96.0,5.1,152958,11.38,48.86
+MV-10514,Kingdom of Courage,1995,Comedy,101.0,6.9,277481,18.21,59.28
+MV-10515,Kingdom of Frontier,2010,Thriller,126.0,7.5,276535,19.67,76.01
+MV-10516,Kingdom of Future,2019,Romance,96.0,6.5,248571,27.38,77.77
+MV-10517,Kingdom of Glory,1999,Horror,,5.5,211336,22.26,83.37
+MV-10518,Kingdom of Horizon,1998,Thriller,114.0,6.6,225596,20.73,39.86
+MV-10519,Kingdom of Justice,2016,Horror,103.0,7.4,270269,12.84,84.07
+MV-10520,Kingdom of Odyssey,2001,Action,153.0,,577501,142.15,380.7
+MV-10521,Kingdom of Sanctuary,1994,Sci-Fi,148.0,7.9,898097,116.19,552.5
+MV-10522,Kingdom of Silence,2000,Action,110.0,7.5,462826,44.55,207.01
+MV-10523,Kingdom of Symphony,2023,Drama,120.0,8.4,322307,41.73,87.37
+MV-10524,Kingdom of Valley,2020,Sci-Fi,156.0,6.4,616822,108.52,406.71
+MV-10525,Kingdom of Warrior,2008,Thriller,105.0,7.0,205400,10.67,45.35
+MV-10526,Kingdom of Wilderness,2016,Comedy,114.0,7.0,365601,10.42,41.79
+MV-10527,Labyrinth of Courage,2013,Romance,96.0,6.1,250325,45.68,101.33
+MV-10528,Labyrinth of Dreams,2016,Drama,152.0,8.8,269209,2.0,7.97
+MV-10529,Labyrinth of Eternity,2017,Comedy,103.0,5.6,211876,2.68,10.17
+MV-10530,Labyrinth of Galaxy,2015,Drama,137.0,7.7,278093,32.7,59.86
+MV-10531,Labyrinth of Justice,2004,Horror,82.0,5.9,117772,2.0,5.16
+MV-10532,Labyrinth of Tomorrow,1988,Sci-Fi,138.0,7.7,975488,132.12,575.46
+MV-10533,Labyrinth of Valley,2011,Comedy,108.0,6.2,275037,29.37,109.56
+MV-10534,Labyrinth of Voyage,2022,Sci-Fi,150.0,,1548378,201.56,1150.12
+MV-10535,Labyrinth of Warrior,2014,Action,147.0,7.1,743154,78.76,464.74
+MV-10536,Last Courage,2020,Horror,94.0,5.0,146386,3.02,18.12
+MV-10537,Last Empire,2024,Action,140.0,6.8,441055,43.93,228.83
+MV-10538,Last Illusion,2000,Action,144.0,6.2,1694310,201.92,1139.4
+MV-10539,Last Justice,2017,Animation,88.0,7.6,737026,53.1,310.47
+MV-10540,Last Labyrinth,2016,Comedy,93.0,6.0,321501,41.96,119.27
+MV-10541,Last Sanctuary,2024,Drama,127.0,7.9,612384,76.92,232.79
+MV-10542,Last Silence,2024,Thriller,97.0,7.4,321708,44.81,129.17
+MV-10543,Last Tomorrow,2017,Animation,101.0,6.9,748807,69.24,417.0
+MV-10544,Last Valley,2003,Action,146.0,5.7,783585,99.01,565.06
+MV-10545,Last Wilderness,2019,Drama,136.0,7.4,228910,17.76,51.46
+MV-10546,Last Winter,1995,Comedy,86.0,7.1,245346,18.55,61.79
+MV-10547,Legacy of Ancient Storm,2019,Action,135.0,7.2,513760,106.1,225.94
+MV-10548,Legacy of Eternal Odyssey,2022,Drama,153.0,7.3,215762,13.87,44.69
+MV-10549,Legacy of Eternal Valley,2009,Sci-Fi,151.0,7.6,683383,176.2,387.1
+MV-10550,Legacy of Forgotten Silence,2015,Documentary,108.0,7.3,276458,6.16,15.1
+MV-10551,Legacy of Forgotten Winter,2010,Action,127.0,7.3,463387,101.49,233.96
+MV-10552,Legacy of Frozen Glory,2010,Comedy,113.0,,198862,27.77,44.36
+MV-10553,Legacy of Furious Justice,2006,Action,122.0,7.0,1029171,164.3,733.91
+MV-10554,Legacy of Hidden Dreams,2019,Drama,131.0,7.7,229445,24.24,30.51
+MV-10555,Legacy of Hidden Voyage,2023,Romance,93.0,7.7,364995,23.39,109.42
+MV-10556,Legacy of Last Voyage,2023,Action,152.0,5.8,688522,163.4,483.6
+MV-10557,Legacy of Last Warrior,2000,Action,133.0,7.2,176753,2.0,9.42
+MV-10558,Legacy of Lost Symphony,2021,Sci-Fi,122.0,8.0,673144,81.39,390.39
+MV-10559,Legacy of Midnight Wilderness,2018,Action,136.0,6.5,1419302,250.68,1052.58
+MV-10560,Legacy of Radiant Eternity,2004,Sci-Fi,147.0,7.1,967824,99.43,577.3
+MV-10561,Legacy of Shattered Eternity,1991,Drama,108.0,6.9,290755,25.7,66.43
+MV-10562,Legacy of Shattered Winter,2004,Adventure,148.0,5.8,885471,158.55,645.74
+MV-10563,Legacy of Silent Frontier,2022,Animation,112.0,7.7,707280,122.1,439.63
+MV-10564,Legacy of Silent Symphony,2015,Sci-Fi,151.0,5.5,507403,94.8,347.5
+MV-10565,Legacy of Spectral Tomorrow,2018,Animation,110.0,6.9,460086,68.0,260.18
+MV-10566,Legacy of Starlight Silence,2004,Drama,141.0,8.5,309118,28.72,38.44
+MV-10567,Legend of Ancient Tomorrow,2017,Action,144.0,7.1,937120,129.99,643.11
+MV-10568,Legend of Crimson Eternity,1987,Thriller,115.0,6.8,235176,34.71,76.41
+MV-10569,Legend of Dark Sanctuary,2009,Thriller,96.0,6.4,462108,50.29,211.7
+MV-10570,Legend of Eternal Dreams,2015,Action,139.0,7.0,768322,152.12,508.26
+MV-10571,Legend of Eternal Voyage,1999,Comedy,101.0,6.2,268601,24.96,83.41
+MV-10572,Legend of Forgotten Destiny,2020,Drama,142.0,7.8,448795,54.48,203.5
+MV-10573,Legend of Frozen Courage,2003,Action,133.0,5.1,433156,56.07,288.22
+MV-10574,Legend of Frozen Eternity,2016,Drama,120.0,7.9,242877,21.14,39.79
+MV-10575,Legend of Hidden Eternity,2010,Horror,100.0,6.9,382060,24.06,126.79
+MV-10576,Legend of Hidden Winter,2014,Comedy,113.0,7.0,481874,58.08,145.33
+MV-10577,Legend of Infinite Future,1995,Drama,121.0,7.7,340342,4.98,7.0
+MV-10578,Legend of Midnight Future,1986,Thriller,118.0,8.2,402646,55.87,163.75
+MV-10579,Legend of Radiant Empire,2022,Thriller,119.0,6.7,482126,76.02,283.74
+MV-10580,Legend of Radiant Memory,2004,Adventure,118.0,6.7,515313,52.15,261.32
+MV-10581,Legend of Radiant Symphony,2020,Thriller,110.0,8.0,340695,54.18,116.1
+MV-10582,Legend of Secret Courage,2024,Comedy,114.0,6.8,296887,35.9,93.86
+MV-10583,Legend of Secret Frontier,2002,Horror,88.0,5.9,116852,2.0,8.52
+MV-10584,Legend of Secret Symphony,2004,Thriller,105.0,6.3,210711,39.61,76.4
+MV-10585,Legend of Shattered Illusion,2016,Drama,141.0,8.0,242577,23.66,30.91
+MV-10586,Legend of Silent Empire,2024,Thriller,130.0,6.8,370691,44.08,173.19
+MV-10587,Legend of Silent Odyssey,2022,Romance,119.0,7.7,443509,41.62,212.14
+MV-10588,Legend of Spectral Sanctuary,2012,Action,138.0,6.5,753543,112.6,497.65
+MV-10589,Legend of Starlight Destiny,2019,Comedy,101.0,6.4,275172,24.93,113.46
+MV-10590,Lost Courage,1998,Drama,142.0,8.2,417978,42.03,112.56
+MV-10591,Lost Dreams,2024,Drama,128.0,7.7,272108,37.76,76.3
+MV-10592,Lost Empire,2024,Action,145.0,5.9,491032,92.93,266.61
+MV-10593,Lost Eternity,2000,Thriller,117.0,6.7,516308,91.49,238.45
+MV-10594,Lost Frontier,2005,Drama,112.0,6.9,205115,12.89,33.77
+MV-10595,Lost Galaxy,1995,Animation,100.0,7.4,339838,44.96,144.77
+MV-10596,Lost Glory,2004,Horror,103.0,7.5,252595,4.97,32.31
+MV-10597,Lost Horizon,2020,Thriller,113.0,6.1,171056,9.12,30.75
+MV-10598,Lost Justice,2009,Adventure,143.0,6.9,461416,103.13,234.57
+MV-10599,Lost Kingdom,1993,Drama,123.0,8.4,322356,44.2,79.74
+MV-10600,Lost Sanctuary,2007,Action,133.0,6.5,405377,70.22,227.77
+MV-10601,Lost Silence,2024,Sci-Fi,150.0,7.1,1298019,128.36,878.4
+MV-10602,Lost Storm,2015,Adventure,141.0,6.0,773492,144.81,555.53
+MV-10603,Lost Voyage,2010,Horror,101.0,7.5,341201,19.99,136.88
+MV-10604,Lost Warrior,2000,Comedy,92.0,5.1,296050,38.08,165.26
+MV-10605,Lost Wilderness,2024,Animation,108.0,8.2,653546,99.87,363.22
+MV-10606,Lost Winter,2020,Drama,137.0,7.8,204273,3.28,6.97
+MV-10607,Master of Ancient Voyage,2005,Adventure,148.0,7.0,654313,76.56,424.07
+MV-10608,Master of Crimson Empire,1992,Documentary,103.0,8.1,244673,7.26,8.19
+MV-10609,Master of Crimson Memory,1990,Drama,135.0,8.5,524660,50.93,157.37
+MV-10610,Master of Eternal Tomorrow,1997,Sci-Fi,152.0,6.9,540318,92.86,313.49
+MV-10611,Master of Frozen Kingdom,2014,Drama,128.0,8.0,348312,29.09,43.45
+MV-10612,Master of Frozen Winter,2023,Action,131.0,7.6,749297,135.74,462.43
+MV-10613,Master of Golden Courage,2012,Thriller,109.0,6.3,265713,36.49,120.67
+MV-10614,Master of Hidden Glory,2021,Thriller,115.0,6.9,670767,84.55,373.13
+MV-10615,Master of Infinite Empire,2011,Animation,95.0,7.9,676103,51.87,326.53
+MV-10616,Master of Infinite Storm,2017,Sci-Fi,128.0,7.3,1207977,225.79,833.71
+MV-10617,Master of Infinite Warrior,2018,Action,118.0,5.8,1922288,132.32,1512.97
+MV-10618,Master of Lost Dreams,2000,Horror,93.0,6.1,174165,2.0,14.6
+MV-10619,Master of Midnight Silence,2008,Animation,102.0,7.5,405129,65.44,187.74
+MV-10620,Master of Mystic Illusion,2015,Drama,130.0,8.4,293547,23.05,36.83
+MV-10621,Master of Shattered Voyage,1992,Documentary,83.0,7.8,234561,9.4,20.23
+MV-10622,Master of Spectral Sanctuary,2008,Drama,160.0,6.6,459677,83.87,238.22
+MV-10623,Master of Spectral Wilderness,2013,Adventure,114.0,6.8,580519,157.39,319.27
+MV-10624,Memory of Destiny,2024,Comedy,96.0,6.6,316655,19.32,85.09
+MV-10625,Memory of Empire,2011,Drama,162.0,8.2,301613,22.14,49.97
+MV-10626,Memory of Eternity,2020,Action,137.0,7.3,890300,102.37,409.84
+MV-10627,Memory of Frontier,2010,Sci-Fi,137.0,7.2,529853,52.06,261.52
+MV-10628,Memory of Future,2019,Action,141.0,7.2,798428,94.5,532.47
+MV-10629,Memory of Galaxy,2014,Drama,163.0,,384171,47.97,145.23
+MV-10630,Memory of Horizon,2022,Thriller,97.0,6.8,477692,77.09,261.72
+MV-10631,Memory of Justice,2010,Romance,107.0,6.2,160846,15.98,34.5
+MV-10632,Memory of Memory,2015,Action,153.0,6.3,537792,79.43,347.0
+MV-10633,Memory of Odyssey,2015,Comedy,108.0,6.0,360934,49.84,122.24
+MV-10634,Memory of Storm,2010,Action,147.0,6.3,678965,126.99,463.3
+MV-10635,Memory of Tomorrow,1999,Drama,131.0,6.9,406831,47.41,161.08
+MV-10636,Memory of Warrior,1994,Adventure,122.0,6.8,452802,111.17,230.04
+MV-10637,Memory of Wilderness,1986,Adventure,128.0,6.8,619487,133.08,380.01
+MV-10638,Midnight Courage,2021,Thriller,113.0,7.8,336293,16.96,63.42
+MV-10639,Midnight Destiny,2003,Comedy,114.0,7.2,250374,15.26,42.74
+MV-10640,Midnight Empire,2002,Horror,95.0,4.9,139261,13.31,60.38
+MV-10641,Midnight Frontier,2018,Thriller,115.0,9.1,644318,54.88,241.47
+MV-10642,Midnight Future,2006,Adventure,116.0,6.2,231106,14.95,46.91
+MV-10643,Midnight Glory,2012,Sci-Fi,138.0,7.9,1062970,137.6,686.83
+MV-10644,Midnight Illusion,2000,Horror,94.0,6.0,214701,15.14,78.42
+MV-10645,Midnight Justice,2023,Thriller,105.0,7.4,311393,56.46,121.61
+MV-10646,Midnight Kingdom,2021,Action,148.0,5.6,1254403,167.89,966.63
+MV-10647,Midnight Sanctuary,2021,Animation,103.0,,406111,40.81,196.96
+MV-10648,Midnight Valley,2010,Thriller,96.0,7.4,273125,26.12,71.3
+MV-10649,Midnight Winter,2019,Thriller,115.0,6.4,280650,60.78,107.85
+MV-10650,Mystic Courage,1999,Comedy,94.0,7.7,289757,19.34,60.55
+MV-10651,Mystic Dreams,1985,Thriller,116.0,7.6,447516,62.6,190.64
+MV-10652,Mystic Empire,1986,Thriller,129.0,5.9,165049,6.84,25.68
+MV-10653,Mystic Eternity,2014,Drama,109.0,8.1,407725,44.37,171.76
+MV-10654,Mystic Frontier,2011,Drama,140.0,6.8,197355,15.9,23.82
+MV-10655,Mystic Horizon,2012,Thriller,114.0,7.2,305981,21.28,78.16
+MV-10656,Mystic Illusion,1985,Horror,107.0,6.5,266739,14.9,108.17
+MV-10657,Mystic Kingdom,2010,Thriller,101.0,5.6,164932,10.87,34.49
+MV-10658,Mystic Memory,2017,Comedy,107.0,5.8,294965,35.49,153.76
+MV-10659,Mystic Sanctuary,2011,Sci-Fi,158.0,6.8,477443,111.61,221.49
+MV-10660,Mystic Silence,2018,Drama,131.0,7.9,416649,42.82,127.71
+MV-10661,Mystic Tomorrow,2003,Action,123.0,7.3,945047,102.01,577.99
+MV-10662,Mystic Voyage,2020,Drama,112.0,7.7,451288,51.86,206.13
+MV-10663,Mystic Warrior,2014,Drama,138.0,6.8,288971,35.98,52.4
+MV-10664,Mystic Wilderness,2002,Comedy,109.0,6.6,255932,25.2,89.85
+MV-10665,Mystic Winter,2003,Action,121.0,7.1,924845,153.52,643.18
+MV-10666,Odyssey of Courage,2015,Drama,133.0,7.5,336395,19.33,59.32
+MV-10667,Odyssey of Destiny,2020,Action,128.0,7.2,614936,57.12,316.53
+MV-10668,Odyssey of Empire,2010,Thriller,116.0,6.7,296677,49.07,121.33
+MV-10669,Odyssey of Eternity,2004,Action,133.0,6.7,596071,104.71,355.48
+MV-10670,Odyssey of Frontier,2021,Action,150.0,6.7,985699,130.32,704.18
+MV-10671,Odyssey of Future,2016,Adventure,130.0,8.0,575914,116.67,302.94
+MV-10672,Odyssey of Glory,2011,Drama,126.0,7.8,398478,39.93,132.83
+MV-10673,Odyssey of Horizon,2012,Action,121.0,7.5,753614,123.43,479.69
+MV-10674,Odyssey of Illusion,2002,Drama,109.0,7.7,428200,50.97,117.31
+MV-10675,Odyssey of Kingdom,2015,Drama,130.0,6.6,353990,59.9,167.91
+MV-10676,Odyssey of Labyrinth,2008,Thriller,96.0,6.7,376986,62.14,199.71
+MV-10677,Odyssey of Memory,2024,Thriller,95.0,7.3,290499,17.62,30.05
+MV-10678,Odyssey of Sanctuary,2012,Adventure,118.0,6.6,352955,77.05,138.99
+MV-10679,Odyssey of Storm,2012,Thriller,130.0,6.3,276389,49.68,113.2
+MV-10680,Odyssey of Symphony,2014,Animation,113.0,8.1,487901,53.3,220.14
+MV-10681,Odyssey of Valley,2022,Drama,109.0,7.2,325460,43.34,140.63
+MV-10682,Odyssey of Voyage,2020,Drama,162.0,7.7,428083,26.9,93.51
+MV-10683,Odyssey of Wilderness,2011,Drama,133.0,7.4,303210,55.19,96.97
+MV-10684,Odyssey of Winter,2017,Drama,114.0,8.8,454558,52.47,143.23
+MV-10685,Radiant Destiny,2014,Thriller,99.0,5.7,407154,49.99,214.74
+MV-10686,Radiant Empire,2012,Sci-Fi,158.0,,457110,63.28,171.81
+MV-10687,Radiant Eternity,2001,Drama,146.0,6.7,156797,5.88,14.72
+MV-10688,Radiant Galaxy,2011,Animation,104.0,7.9,687983,71.66,400.96
+MV-10689,Radiant Glory,2003,Adventure,118.0,6.9,679780,169.19,442.48
+MV-10690,Radiant Kingdom,2022,Comedy,89.0,5.7,308121,49.43,160.05
+MV-10691,Radiant Labyrinth,2007,Drama,139.0,7.7,301176,29.42,71.28
+MV-10692,Radiant Odyssey,2023,Drama,138.0,,303481,37.65,114.0
+MV-10693,Radiant Symphony,2013,Drama,150.0,8.3,252099,12.52,17.3
+MV-10694,Radiant Voyage,2015,Drama,147.0,8.0,296050,18.6,55.51
+MV-10695,Radiant Wilderness,2013,Thriller,109.0,8.3,361309,30.06,85.83
+MV-10696,Radiant Winter,1997,Comedy,98.0,6.0,158151,22.38,34.0
+MV-10697,Return of Ancient Winter,2009,Comedy,107.0,6.0,393316,46.87,218.64
+MV-10698,Return of Brave Future,1994,Documentary,111.0,8.6,257485,12.81,16.73
+MV-10699,Return of Cosmic Galaxy,2015,Sci-Fi,115.0,6.5,1346528,195.86,962.68
+MV-10700,Return of Cosmic Memory,2011,Animation,88.0,6.9,434372,49.44,197.13
+MV-10701,Return of Dark Glory,2019,Drama,110.0,8.4,367937,21.98,31.51
+MV-10702,Return of Forgotten Glory,2002,Action,154.0,6.4,527066,89.7,310.06
+MV-10703,Return of Golden Destiny,2000,Thriller,120.0,6.8,408489,47.04,186.57
+MV-10704,Return of Infinite Storm,2010,Drama,139.0,8.0,306634,41.63,75.13
+MV-10705,Return of Iron Justice,2023,Drama,134.0,8.1,253657,16.79,44.36
+MV-10706,Return of Last Eternity,2017,Sci-Fi,156.0,7.0,779273,189.84,513.82
+MV-10707,Return of Lost Memory,2010,Sci-Fi,126.0,7.5,823996,125.42,511.31
+MV-10708,Return of Mystic Eternity,2012,Action,131.0,6.8,1290410,173.15,957.67
+MV-10709,Return of Radiant Empire,1993,Action,148.0,7.2,2056562,125.42,1569.91
+MV-10710,Return of Radiant Horizon,2024,Action,138.0,6.4,934354,159.64,674.86
+MV-10711,Return of Radiant Winter,2016,Drama,153.0,7.9,278014,32.33,70.6
+MV-10712,Return of Shattered Glory,2005,Comedy,100.0,4.9,194811,43.62,74.91
+MV-10713,Return of Shattered Sanctuary,2014,Drama,140.0,8.1,286976,25.44,53.08
+MV-10714,Return of Shattered Wilderness,1995,Drama,137.0,7.5,277867,26.23,60.72
+MV-10715,Return of Spectral Justice,2024,Animation,100.0,7.2,525399,89.86,306.83
+MV-10716,Return of Spectral Kingdom,2000,Thriller,129.0,7.8,198047,5.26,9.84
+MV-10717,Return of Wild Courage,2016,Sci-Fi,124.0,6.9,585044,83.08,318.77
+MV-10718,Return of Wild Justice,2003,Comedy,104.0,5.5,364013,70.05,214.6
+MV-10719,Rise of Cosmic Labyrinth,2017,Action,147.0,5.9,1072454,143.81,808.31
+MV-10720,Rise of Forgotten Warrior,2019,Comedy,88.0,7.8,328764,32.82,79.0
+MV-10721,Rise of Furious Courage,2016,Drama,140.0,7.4,365902,42.47,150.55
+MV-10722,Rise of Golden Galaxy,2015,Drama,139.0,7.2,258666,20.23,68.41
+MV-10723,Rise of Golden Labyrinth,2022,Horror,87.0,7.0,298808,27.46,115.63
+MV-10724,Rise of Golden Memory,1992,Sci-Fi,130.0,6.9,1342110,133.98,734.12
+MV-10725,Rise of Last Future,2007,Thriller,101.0,6.4,311824,55.55,91.6
+MV-10726,Rise of Lost Courage,2003,Action,148.0,7.7,581581,76.48,323.4
+MV-10727,Rise of Lost Horizon,2024,Romance,108.0,5.2,222834,24.69,116.98
+MV-10728,Rise of Lost Wilderness,2009,Drama,113.0,8.9,364017,46.17,82.42
+MV-10729,Rise of Midnight Tomorrow,2018,Comedy,113.0,7.2,232154,11.52,45.42
+MV-10730,Rise of Mystic Storm,2017,Comedy,113.0,6.5,448598,68.7,232.12
+MV-10731,Rise of Secret Symphony,2002,Horror,98.0,5.9,231397,24.6,102.07
+MV-10732,Rise of Shattered Justice,2003,Documentary,79.0,8.1,319680,14.37,37.18
+MV-10733,Rise of Silent Dreams,2005,Comedy,99.0,6.2,448828,53.04,241.76
+MV-10734,Rise of Spectral Destiny,2010,Adventure,120.0,7.8,797710,211.33,482.02
+MV-10735,Rise of Starlight Symphony,2003,Adventure,122.0,7.5,785226,114.72,499.36
+MV-10736,Sanctuary of Future,1986,Comedy,100.0,6.5,309046,36.73,85.84
+MV-10737,Sanctuary of Galaxy,2021,Action,151.0,6.9,723503,125.09,445.71
+MV-10738,Sanctuary of Illusion,2024,Action,111.0,6.8,877738,160.29,612.98
+MV-10739,Sanctuary of Odyssey,2007,Documentary,95.0,8.6,362046,5.06,15.35
+MV-10740,Sanctuary of Silence,2007,Drama,141.0,8.0,339556,27.44,92.81
+MV-10741,Sanctuary of Storm,1985,Horror,101.0,6.3,273755,20.09,90.93
+MV-10742,Sanctuary of Valley,2017,Comedy,86.0,5.2,81057,2.0,4.1
+MV-10743,Sanctuary of Warrior,2020,Horror,85.0,,354687,21.67,171.95
+MV-10744,Search for Dark Destiny,1999,Action,136.0,7.5,660855,156.05,354.53
+MV-10745,Search for Dark Galaxy,2000,Thriller,96.0,6.9,159876,2.0,6.08
+MV-10746,Search for Dark Voyage,2019,Adventure,146.0,6.4,477207,94.11,273.47
+MV-10747,Search for Eternal Destiny,2015,Horror,,5.6,411898,12.02,84.2
+MV-10748,Search for Forgotten Sanctuary,1989,Adventure,123.0,,389029,33.29,150.34
+MV-10749,Search for Forgotten Symphony,2015,Drama,159.0,6.6,495730,67.84,205.44
+MV-10750,Search for Forgotten Tomorrow,2006,Sci-Fi,150.0,6.8,667522,110.02,403.04
+MV-10751,Search for Furious Illusion,2008,Drama,154.0,7.9,300352,23.24,78.04
+MV-10752,Search for Golden Justice,2019,Action,,7.0,700812,103.74,427.94
+MV-10753,Search for Golden Storm,2020,Thriller,120.0,8.2,320046,2.0,8.2
+MV-10754,Search for Infinite Destiny,2010,Action,133.0,6.6,1310514,193.43,970.75
+MV-10755,Search for Infinite Empire,2023,Thriller,,6.8,429166,65.13,181.04
+MV-10756,Search for Infinite Odyssey,2010,Documentary,106.0,7.3,198524,2.06,5.65
+MV-10757,Search for Infinite Voyage,2019,Drama,114.0,8.2,468361,24.62,77.37
+MV-10758,Search for Iron Voyage,2012,Sci-Fi,149.0,6.6,1104188,236.38,750.07
+MV-10759,Search for Last Galaxy,2022,Action,111.0,5.8,900382,180.97,658.27
+MV-10760,Search for Last Symphony,2022,Drama,161.0,7.9,243288,11.55,35.79
+MV-10761,Search for Radiant Kingdom,1993,Drama,124.0,8.1,337062,41.43,89.28
+MV-10762,Search for Radiant Voyage,2023,Animation,86.0,7.1,300716,33.66,84.06
+MV-10763,Search for Shattered Justice,2020,Adventure,147.0,6.9,676172,107.12,416.15
+MV-10764,Search for Shattered Memory,2019,Romance,124.0,6.6,366858,29.22,121.2
+MV-10765,Search for Silent Odyssey,2002,Documentary,107.0,8.7,288816,12.32,43.07
+MV-10766,Secret Courage,2020,Comedy,105.0,7.0,183593,7.68,26.92
+MV-10767,Secret Dreams,2021,Comedy,91.0,5.8,285068,41.16,97.76
+MV-10768,Secret Empire,2005,Sci-Fi,129.0,7.6,612131,123.95,334.6
+MV-10769,Secret Frontier,2023,Action,143.0,6.4,487876,150.98,302.52
+MV-10770,Secret Future,1989,Action,141.0,6.6,933798,121.07,653.41
+MV-10771,Secret Galaxy,1999,Comedy,105.0,5.3,103067,2.0,3.43
+MV-10772,Secret Glory,2013,Thriller,125.0,7.0,379688,57.48,155.46
+MV-10773,Secret Illusion,2014,Thriller,132.0,6.8,189679,3.54,13.63
+MV-10774,Secret Justice,2016,Drama,111.0,7.2,306565,38.5,102.14
+MV-10775,Secret Memory,1986,Action,149.0,5.5,436334,99.97,286.46
+MV-10776,Secret Odyssey,2024,Thriller,112.0,7.4,269078,25.73,73.62
+MV-10777,Secret Sanctuary,1989,Thriller,109.0,6.9,514099,65.32,235.87
+MV-10778,Secret Silence,1999,Comedy,112.0,6.9,220609,32.43,51.31
+MV-10779,Secret Symphony,1986,Horror,107.0,5.4,152496,6.58,27.4
+MV-10780,Secret Voyage,2014,Drama,131.0,8.1,340692,35.48,110.13
+MV-10781,Secret Warrior,2023,Comedy,112.0,6.2,199516,25.8,46.36
+MV-10782,Secrets of Brave Odyssey,2016,Horror,85.0,5.5,162681,8.34,33.77
+MV-10783,Secrets of Crimson Galaxy,2020,Thriller,127.0,6.6,415208,59.2,127.61
+MV-10784,Secrets of Crimson Sanctuary,1986,Comedy,85.0,,345390,40.64,188.0
+MV-10785,Secrets of Eternal Warrior,2013,Sci-Fi,134.0,7.6,1017006,215.54,659.35
+MV-10786,Secrets of Forgotten Galaxy,2011,Thriller,96.0,6.8,252953,33.96,61.33
+MV-10787,Secrets of Forgotten Tomorrow,2012,Horror,87.0,4.8,154059,13.0,71.72
+MV-10788,Secrets of Frozen Horizon,1992,Horror,82.0,6.2,144595,8.49,24.4
+MV-10789,Secrets of Frozen Valley,2017,Thriller,115.0,7.4,425275,38.93,167.79
+MV-10790,Secrets of Furious Warrior,2012,Action,137.0,5.5,698103,82.27,482.01
+MV-10791,Secrets of Golden Labyrinth,2019,Drama,118.0,7.5,244628,2.0,3.13
+MV-10792,Secrets of Infinite Labyrinth,2012,Comedy,85.0,6.0,360893,38.7,171.27
+MV-10793,Secrets of Iron Frontier,1999,Action,117.0,5.7,578807,146.85,388.42
+MV-10794,Secrets of Lost Eternity,2016,Thriller,110.0,6.8,228486,15.25,62.29
+MV-10795,Secrets of Midnight Illusion,2000,Thriller,133.0,7.2,263560,34.97,91.26
+MV-10796,Secrets of Radiant Future,2021,Comedy,93.0,7.2,259694,43.44,84.28
+MV-10797,Secrets of Shattered Justice,2015,Drama,,7.9,440776,56.87,191.38
+MV-10798,Secrets of Shattered Tomorrow,2000,Action,144.0,6.0,746504,81.55,403.45
+MV-10799,Secrets of Silent Empire,2024,Comedy,95.0,6.9,318133,22.25,65.17
+MV-10800,Secrets of Spectral Justice,2012,Horror,,5.9,255315,32.67,122.61
+MV-10801,Secrets of Starlight Empire,1992,Drama,130.0,8.2,428016,55.64,174.92
+MV-10802,Secrets of Wild Courage,2015,Thriller,114.0,,224740,42.24,60.56
+MV-10803,Shadows of Brave Eternity,2004,Animation,104.0,8.1,649019,102.62,335.87
+MV-10804,Shadows of Cosmic Horizon,2020,Drama,124.0,7.2,336944,32.69,81.55
+MV-10805,Shadows of Cosmic Labyrinth,2020,Action,128.0,7.0,731829,172.4,465.83
+MV-10806,Shadows of Crimson Empire,2024,Drama,128.0,7.7,204124,12.41,18.0
+MV-10807,Shadows of Dark Justice,2012,Thriller,111.0,7.3,323630,35.29,90.24
+MV-10808,Shadows of Eternal Glory,2011,Thriller,116.0,6.4,455436,59.38,255.4
+MV-10809,Shadows of Eternal Valley,2018,Action,,6.1,1344344,101.82,1024.11
+MV-10810,Shadows of Forgotten Kingdom,1998,Thriller,120.0,7.0,401939,48.7,190.8
+MV-10811,Shadows of Frozen Sanctuary,2013,Romance,107.0,6.1,296552,42.53,149.64
+MV-10812,Shadows of Frozen Storm,2013,Drama,131.0,8.6,377699,28.9,107.34
+MV-10813,Shadows of Furious Dreams,1993,Drama,106.0,7.5,291466,34.38,101.77
+MV-10814,Shadows of Furious Glory,2010,Adventure,125.0,5.8,610075,68.94,360.87
+MV-10815,Shadows of Furious Wilderness,2021,Thriller,104.0,6.9,256743,24.64,60.02
+MV-10816,Shadows of Hidden Sanctuary,2021,Romance,91.0,6.7,254876,16.18,37.98
+MV-10817,Shadows of Infinite Destiny,1994,Thriller,97.0,7.9,290663,27.3,53.58
+MV-10818,Shadows of Infinite Eternity,1994,Adventure,139.0,7.5,562301,76.57,311.88
+MV-10819,Shadows of Iron Galaxy,2004,Action,135.0,6.1,680850,128.72,461.26
+MV-10820,Shadows of Iron Kingdom,2021,Horror,103.0,6.6,226187,15.72,64.69
+MV-10821,Shadows of Iron Labyrinth,1997,Romance,117.0,8.0,338527,57.88,103.48
+MV-10822,Shadows of Last Kingdom,2017,Thriller,105.0,7.0,341691,56.36,138.08
+MV-10823,Shadows of Last Symphony,1995,Drama,155.0,6.9,189495,7.87,10.75
+MV-10824,Shadows of Last Wilderness,2015,Comedy,110.0,7.6,282198,21.01,75.04
+MV-10825,Shadows of Mystic Destiny,2008,Drama,113.0,8.3,354368,38.07,119.39
+MV-10826,Shadows of Mystic Empire,2019,Comedy,91.0,6.5,225487,20.42,81.61
+MV-10827,Shadows of Radiant Illusion,2003,Comedy,110.0,7.9,450836,45.8,215.52
+MV-10828,Shadows of Secret Galaxy,2015,Thriller,131.0,6.9,325550,18.8,75.62
+MV-10829,Shadows of Secret Winter,2003,Thriller,,8.0,465821,56.04,222.19
+MV-10830,Shadows of Silent Labyrinth,2017,Action,146.0,4.8,451598,61.84,227.07
+MV-10831,Shadows of Starlight Winter,2021,Thriller,,7.5,428425,53.16,185.62
+MV-10832,Shadows of Wild Empire,1997,Drama,138.0,8.0,336013,34.93,55.41
+MV-10833,Shattered Courage,2021,Drama,129.0,8.2,338633,23.14,56.42
+MV-10834,Shattered Destiny,2014,Drama,120.0,7.8,288738,26.81,40.9
+MV-10835,Shattered Dreams,1997,Thriller,106.0,6.3,278165,37.46,85.52
+MV-10836,Shattered Frontier,2010,Comedy,89.0,6.6,371778,39.64,148.39
+MV-10837,Shattered Galaxy,2000,Comedy,88.0,6.4,295692,29.39,113.44
+MV-10838,Shattered Kingdom,2017,Action,139.0,6.5,831479,109.9,569.17
+MV-10839,Shattered Odyssey,2018,Adventure,145.0,6.1,508208,55.05,281.32
+MV-10840,Shattered Sanctuary,1995,Drama,135.0,7.7,280216,22.48,68.67
+MV-10841,Shattered Silence,2012,Sci-Fi,152.0,7.8,551243,95.66,305.32
+MV-10842,Shattered Storm,2020,Sci-Fi,132.0,7.0,596010,143.37,375.31
+MV-10843,Shattered Tomorrow,2023,Horror,104.0,6.0,247994,15.34,115.79
+MV-10844,Shattered Valley,2012,Animation,101.0,7.3,631819,80.41,346.69
+MV-10845,Shattered Voyage,2023,Drama,134.0,7.3,264398,2.0,7.61
+MV-10846,Shattered Wilderness,2013,Drama,147.0,7.4,320471,43.15,99.16
+MV-10847,Silence of Courage,2009,Romance,111.0,5.3,275856,21.13,107.16
+MV-10848,Silence of Frontier,2021,Action,129.0,6.2,580204,161.31,374.03
+MV-10849,Silence of Future,2012,Thriller,95.0,6.5,372589,64.48,205.54
+MV-10850,Silence of Glory,2011,Sci-Fi,122.0,7.3,1337193,173.76,966.65
+MV-10851,Silence of Horizon,2012,Sci-Fi,128.0,8.0,1134721,154.31,755.46
+MV-10852,Silence of Illusion,2021,Animation,109.0,6.9,410458,70.53,224.03
+MV-10853,Silence of Labyrinth,2020,Documentary,86.0,8.0,209609,2.0,4.79
+MV-10854,Silence of Odyssey,2010,Sci-Fi,122.0,7.2,306031,36.89,106.02
+MV-10855,Silence of Silence,2007,Comedy,86.0,5.6,360298,58.95,215.55
+MV-10856,Silence of Storm,2012,Adventure,132.0,6.4,416387,45.43,160.71
+MV-10857,Silence of Tomorrow,2014,Drama,159.0,7.1,234318,29.8,65.57
+MV-10858,Silence of Voyage,2003,Comedy,104.0,7.3,173991,2.0,8.65
+MV-10859,Silence of Wilderness,2019,Romance,114.0,6.0,185173,21.81,65.82
+MV-10860,Silent Courage,2012,Comedy,105.0,5.9,209108,13.08,24.85
+MV-10861,Silent Dreams,2007,Comedy,99.0,7.5,421985,71.55,204.25
+MV-10862,Silent Empire,1995,Drama,149.0,7.1,280817,42.12,88.18
+MV-10863,Silent Eternity,2003,Adventure,127.0,7.5,1060749,165.91,701.95
+MV-10864,Silent Frontier,2023,Action,123.0,,268827,21.66,68.99
+MV-10865,Silent Future,2006,Sci-Fi,122.0,6.8,696592,108.11,422.93
+MV-10866,Silent Galaxy,2000,Comedy,91.0,6.5,205972,2.0,8.35
+MV-10867,Silent Horizon,2011,Horror,107.0,7.6,269871,16.92,52.7
+MV-10868,Silent Illusion,2006,Horror,88.0,7.3,189173,6.05,23.68
+MV-10869,Silent Kingdom,1988,Comedy,85.0,6.0,347172,26.55,59.21
+MV-10870,Silent Labyrinth,2006,Action,123.0,6.9,561359,61.85,339.33
+MV-10871,Silent Sanctuary,2013,Comedy,101.0,7.0,465104,53.75,198.85
+MV-10872,Silent Symphony,2013,Documentary,110.0,7.2,277197,17.32,45.94
+MV-10873,Silent Tomorrow,2008,Sci-Fi,115.0,7.9,582773,120.26,323.64
+MV-10874,Silent Warrior,2011,Animation,96.0,,573406,46.56,178.11
+MV-10875,Spectral Courage,2024,Comedy,88.0,5.9,202271,26.88,61.66
+MV-10876,Spectral Destiny,2009,Horror,97.0,6.6,270778,8.25,34.67
+MV-10877,Spectral Frontier,2004,Horror,100.0,7.2,275935,12.9,90.28
+MV-10878,Spectral Future,2003,Sci-Fi,130.0,7.1,807717,93.46,464.76
+MV-10879,Spectral Galaxy,2011,Animation,100.0,7.5,884277,54.49,596.21
+MV-10880,Spectral Glory,2018,Action,136.0,7.1,2888965,152.49,2227.05
+MV-10881,Spectral Horizon,2002,Drama,123.0,8.1,339388,57.82,91.36
+MV-10882,Spectral Kingdom,2017,Sci-Fi,131.0,7.6,2834976,166.12,2125.12
+MV-10883,Spectral Labyrinth,1987,Sci-Fi,150.0,6.9,756330,115.66,496.59
+MV-10884,Spectral Silence,2010,Thriller,108.0,7.5,487522,49.43,211.82
+MV-10885,Spectral Storm,2019,Comedy,97.0,7.0,313046,42.39,132.21
+MV-10886,Spectral Tomorrow,2007,Action,117.0,6.7,501616,92.73,291.65
+MV-10887,Spectral Valley,2014,Comedy,105.0,5.0,175165,34.8,86.17
+MV-10888,Spectral Voyage,2002,Action,150.0,6.1,500065,133.33,289.58
+MV-10889,Spectral Warrior,2018,Sci-Fi,133.0,7.9,1205308,169.46,828.43
+MV-10890,Spectral Wilderness,1990,Horror,82.0,6.0,303785,23.02,83.27
+MV-10891,Starlight Empire,2021,Comedy,112.0,6.9,258708,42.16,95.37
+MV-10892,Starlight Eternity,2001,Action,154.0,7.1,626428,95.33,388.59
+MV-10893,Starlight Frontier,2021,Comedy,105.0,5.9,210409,37.43,76.23
+MV-10894,Starlight Future,2008,Drama,116.0,7.6,298177,54.4,81.98
+MV-10895,Starlight Horizon,2018,Horror,84.0,5.6,286197,10.87,78.56
+MV-10896,Starlight Illusion,2006,Romance,118.0,6.0,216158,14.61,51.62
+MV-10897,Starlight Justice,2022,Action,154.0,7.2,1196010,140.83,765.8
+MV-10898,Starlight Memory,1997,Horror,96.0,5.8,232542,24.48,87.62
+MV-10899,Starlight Silence,2001,Romance,105.0,7.0,196193,15.55,30.08
+MV-10900,Starlight Storm,2012,Adventure,125.0,6.3,850423,117.18,593.32
+MV-10901,Starlight Symphony,1993,Drama,160.0,6.6,177363,25.48,41.79
+MV-10902,Starlight Tomorrow,2001,Animation,100.0,7.3,481595,54.48,262.73
+MV-10903,Starlight Warrior,2023,Action,144.0,7.1,565382,106.68,344.03
+MV-10904,Starlight Winter,2024,Comedy,92.0,6.5,505181,65.74,299.93
+MV-10905,Storm of Destiny,2009,Drama,157.0,7.8,336088,29.27,113.85
+MV-10906,Storm of Empire,2023,Action,149.0,6.3,1921393,139.35,1499.18
+MV-10907,Storm of Eternity,2013,Drama,109.0,8.4,370996,2.0,7.2
+MV-10908,Storm of Frontier,2004,Comedy,98.0,5.3,338636,76.8,193.58
+MV-10909,Storm of Galaxy,2017,Comedy,95.0,6.6,510731,66.82,293.58
+MV-10910,Storm of Glory,2016,Horror,88.0,6.0,262236,27.52,100.11
+MV-10911,Storm of Illusion,2024,Adventure,124.0,6.8,978759,153.78,699.21
+MV-10912,Storm of Kingdom,2004,Comedy,96.0,6.1,210188,19.74,51.09
+MV-10913,Storm of Labyrinth,2016,Adventure,140.0,7.0,1190250,174.93,852.2
+MV-10914,Storm of Memory,1990,Adventure,114.0,,791510,103.81,498.6
+MV-10915,Storm of Odyssey,1996,Horror,100.0,6.0,375050,23.27,100.59
+MV-10916,Storm of Sanctuary,1985,Drama,,7.4,175627,2.0,4.78
+MV-10917,Storm of Silence,2024,Sci-Fi,158.0,7.6,514742,111.27,283.72
+MV-10918,Storm of Valley,2020,Animation,107.0,8.4,574608,126.67,296.27
+MV-10919,Storm of Voyage,2019,Sci-Fi,128.0,7.9,1387803,234.04,988.61
+MV-10920,Symphony of Destiny,2012,Comedy,92.0,5.6,280754,43.84,91.4
+MV-10921,Symphony of Dreams,2006,Action,143.0,6.2,897625,201.18,602.55
+MV-10922,Symphony of Empire,2000,Sci-Fi,128.0,7.5,742144,158.35,471.32
+MV-10923,Symphony of Frontier,2005,Thriller,99.0,6.2,611410,60.19,236.29
+MV-10924,Symphony of Future,2009,Drama,109.0,8.4,386911,27.74,94.86
+MV-10925,Symphony of Justice,2018,Comedy,95.0,7.9,279253,13.2,62.22
+MV-10926,Symphony of Kingdom,2013,Horror,107.0,5.8,362656,36.08,211.92
+MV-10927,Symphony of Labyrinth,1992,Adventure,120.0,7.7,517230,68.15,278.78
+MV-10928,Symphony of Memory,1986,Drama,,7.9,314667,31.86,98.54
+MV-10929,Symphony of Odyssey,1995,Animation,99.0,7.3,397165,87.2,189.13
+MV-10930,Symphony of Sanctuary,2010,Comedy,97.0,5.7,281110,34.21,127.34
+MV-10931,Symphony of Winter,2023,Sci-Fi,128.0,6.4,570671,106.37,350.19
+MV-10932,Tales of Ancient Eternity,2015,Horror,88.0,6.7,204672,2.0,14.47
+MV-10933,Tales of Ancient Glory,2020,Adventure,132.0,6.1,338018,37.25,191.31
+MV-10934,Tales of Brave Justice,2011,Animation,114.0,8.3,577633,124.78,283.94
+MV-10935,Tales of Cosmic Galaxy,2008,Comedy,88.0,6.5,257653,28.52,94.54
+MV-10936,Tales of Crimson Kingdom,1995,Adventure,112.0,7.6,929903,147.47,606.7
+MV-10937,Tales of Forgotten Odyssey,2021,Drama,131.0,7.1,364300,38.98,149.62
+MV-10938,Tales of Forgotten Valley,2019,Sci-Fi,129.0,8.1,574711,112.64,274.84
+MV-10939,Tales of Frozen Voyage,2000,Horror,90.0,5.8,251253,19.02,127.33
+MV-10940,Tales of Frozen Wilderness,2012,Sci-Fi,115.0,7.3,863926,174.05,555.78
+MV-10941,Tales of Iron Frontier,2012,Comedy,100.0,5.8,425373,75.8,236.55
+MV-10942,Tales of Last Labyrinth,2015,Adventure,114.0,6.6,355335,90.02,182.96
+MV-10943,Tales of Last Voyage,2023,Drama,134.0,7.8,335390,56.94,123.71
+MV-10944,Tales of Lost Eternity,2014,Drama,138.0,8.3,232487,3.68,14.49
+MV-10945,Tales of Lost Frontier,2013,Sci-Fi,124.0,7.5,903816,123.42,599.37
+MV-10946,Tales of Lost Kingdom,1990,Action,154.0,7.3,1141355,148.85,765.72
+MV-10947,Tales of Lost Tomorrow,1991,Adventure,133.0,7.3,306088,17.11,65.09
+MV-10948,Tales of Lost Wilderness,2001,Action,154.0,7.5,438506,90.49,209.67
+MV-10949,Tales of Midnight Eternity,1988,Drama,107.0,8.3,317269,2.0,3.16
+MV-10950,Tales of Midnight Galaxy,2018,Adventure,113.0,7.1,594695,117.48,354.72
+MV-10951,Tales of Midnight Horizon,2018,Thriller,124.0,8.0,412462,61.47,159.74
+MV-10952,Tales of Midnight Valley,1998,Drama,164.0,7.4,233894,5.08,10.43
+MV-10953,Tales of Mystic Wilderness,2020,Sci-Fi,149.0,6.6,396821,112.28,207.19
+MV-10954,Tales of Radiant Sanctuary,2000,Thriller,134.0,6.0,306279,35.43,146.86
+MV-10955,Tales of Radiant Voyage,2006,Thriller,118.0,6.9,291907,22.47,96.81
+MV-10956,Tales of Radiant Wilderness,2003,Action,125.0,7.3,748140,126.44,385.05
+MV-10957,Tales of Secret Labyrinth,2008,Adventure,116.0,7.5,1060161,166.89,728.77
+MV-10958,Tales of Shattered Labyrinth,2004,Adventure,122.0,6.3,650142,130.51,439.25
+MV-10959,Tales of Shattered Voyage,2012,Sci-Fi,115.0,7.1,1197273,149.66,843.88
+MV-10960,Tales of Silent Dreams,2010,Drama,117.0,8.2,380244,41.76,65.13
+MV-10961,Tales of Silent Tomorrow,2024,Adventure,117.0,7.0,894420,101.08,520.28
+MV-10962,Tales of Wild Frontier,1990,Sci-Fi,130.0,8.2,580072,125.14,299.66
+MV-10963,The Ancient Tomorrow,1999,Sci-Fi,130.0,6.9,1637471,238.41,1195.78
+MV-10964,The Brave Dreams,1990,Action,112.0,7.2,566576,60.42,330.71
+MV-10965,The Cosmic Courage,2015,Adventure,131.0,7.3,591649,75.21,355.63
+MV-10966,The Cosmic Glory,1990,Sci-Fi,135.0,6.7,2305381,188.38,1806.18
+MV-10967,The Cosmic Odyssey,2020,Drama,154.0,6.9,202153,14.03,49.98
+MV-10968,The Courage: Brave Eternity,2012,Action,127.0,5.9,596260,72.13,411.94
+MV-10969,The Courage: Cosmic Frontier,2013,Romance,115.0,7.3,286613,28.95,78.21
+MV-10970,The Courage: Cosmic Illusion,2014,Drama,135.0,6.2,204324,17.08,31.01
+MV-10971,The Courage: Cosmic Silence,2000,Animation,98.0,7.6,806458,90.81,469.05
+MV-10972,The Courage: Cosmic Voyage,2001,Sci-Fi,131.0,6.4,844969,142.78,559.8
+MV-10973,The Courage: Frozen Eternity,2006,Sci-Fi,138.0,6.1,1278987,91.95,968.62
+MV-10974,The Courage: Furious Winter,2014,Comedy,114.0,6.5,367038,42.13,198.34
+MV-10975,The Courage: Hidden Horizon,2002,Comedy,88.0,6.3,210674,15.88,64.75
+MV-10976,The Courage: Iron Glory,1996,Animation,114.0,7.0,611383,77.47,329.46
+MV-10977,The Courage: Iron Winter,2024,Comedy,98.0,5.4,458937,47.4,172.13
+MV-10978,The Courage: Last Memory,1987,Horror,83.0,6.0,347167,25.77,100.16
+MV-10979,The Courage: Midnight Silence,2020,Action,131.0,6.2,458275,88.25,257.85
+MV-10980,The Courage: Mystic Memory,2019,Drama,159.0,7.4,228764,24.32,30.81
+MV-10981,The Courage: Radiant Horizon,2005,Drama,164.0,7.0,424961,49.95,182.88
+MV-10982,The Courage: Radiant Winter,1998,Thriller,95.0,6.5,267196,60.03,111.72
+MV-10983,The Courage: Secret Odyssey,1999,Documentary,95.0,7.0,211179,5.0,7.58
+MV-10984,The Courage: Shattered Kingdom,2017,Action,154.0,6.1,688556,164.15,479.86
+MV-10985,The Courage: Silent Voyage,2016,Comedy,101.0,7.4,406620,51.04,191.13
+MV-10986,The Destiny: Ancient Frontier,2019,Comedy,94.0,5.7,273777,61.69,135.82
+MV-10987,The Destiny: Cosmic Eternity,2023,Thriller,105.0,6.6,278832,51.09,81.72
+MV-10988,The Destiny: Cosmic Glory,2017,Action,119.0,6.4,550062,107.19,305.04
+MV-10989,The Destiny: Cosmic Sanctuary,2000,Adventure,118.0,6.4,514708,82.68,168.3
+MV-10990,The Destiny: Forgotten Memory,2003,Action,139.0,7.9,1016303,127.34,689.1
+MV-10991,The Destiny: Forgotten Storm,2021,Action,118.0,6.1,1601550,189.96,1141.05
+MV-10992,The Destiny: Hidden Destiny,2002,Drama,117.0,7.6,393664,44.8,177.91
+MV-10993,The Destiny: Hidden Empire,1992,Documentary,97.0,7.6,385142,14.95,33.38
+MV-10994,The Destiny: Infinite Frontier,2017,Comedy,97.0,6.0,338457,37.71,161.37
+MV-10995,The Destiny: Infinite Silence,2010,Drama,129.0,7.9,228280,25.63,32.93
+MV-10996,The Destiny: Mystic Illusion,2023,Sci-Fi,142.0,6.8,1168140,96.51,854.98
+MV-10997,The Destiny: Shattered Eternity,2016,Thriller,118.0,7.8,345028,60.15,131.49
+MV-10998,The Destiny: Silent Justice,1994,Action,113.0,7.3,533127,109.8,308.55
+MV-10999,The Destiny: Wild Illusion,2023,Action,137.0,7.6,1393640,184.04,1012.13
+MV-11000,The Destiny: Wild Sanctuary,2004,Horror,90.0,6.9,392912,31.8,172.37
+MV-11001,The Destiny: Wild Symphony,2007,Drama,143.0,8.0,398422,47.42,160.81
+MV-11002,The Dreams: Brave Voyage,2010,Adventure,137.0,6.8,965907,136.61,648.84
+MV-11003,The Dreams: Cosmic Glory,1990,Sci-Fi,117.0,6.4,1052304,137.48,774.09
+MV-11004,The Dreams: Eternal Horizon,2012,Action,115.0,5.7,522522,167.35,342.38
+MV-11005,The Dreams: Eternal Winter,1997,Action,114.0,7.3,647235,142.39,399.39
+MV-11006,The Dreams: Forgotten Frontier,2010,Comedy,107.0,6.4,357757,37.48,165.24
+MV-11007,The Dreams: Golden Courage,2008,Horror,,5.5,179692,14.67,39.21
+MV-11008,The Dreams: Golden Sanctuary,2019,Thriller,112.0,8.3,453421,80.29,181.0
+MV-11009,The Dreams: Golden Valley,2020,Comedy,99.0,7.2,287082,26.82,80.16
+MV-11010,The Dreams: Golden Voyage,2000,Thriller,130.0,6.5,259850,18.86,79.23
+MV-11011,The Dreams: Infinite Wilderness,2008,Documentary,81.0,8.2,362877,11.81,37.56
+MV-11012,The Dreams: Last Dreams,2008,Action,119.0,6.2,454117,75.78,257.62
+MV-11013,The Dreams: Last Warrior,2000,Romance,115.0,6.5,214769,27.85,50.85
+MV-11014,The Dreams: Mystic Justice,2019,Comedy,106.0,6.9,246481,16.99,70.94
+MV-11015,The Dreams: Mystic Wilderness,2017,Drama,149.0,8.5,469876,13.78,46.18
+MV-11016,The Dreams: Secret Horizon,2001,Comedy,95.0,5.6,210820,28.76,62.51
+MV-11017,The Dreams: Secret Valley,2008,Action,151.0,5.8,463157,95.36,294.83
+MV-11018,The Dreams: Silent Destiny,1995,Comedy,92.0,7.3,306427,38.83,92.36
+MV-11019,The Dreams: Spectral Frontier,2015,Drama,,7.5,414748,65.86,145.1
+MV-11020,The Dreams: Starlight Galaxy,1997,Romance,116.0,6.3,170732,23.42,43.39
+MV-11021,The Empire: Ancient Horizon,2024,Adventure,133.0,6.9,609824,81.68,379.8
+MV-11022,The Empire: Brave Storm,2019,Horror,103.0,5.5,329105,24.19,157.44
+MV-11023,The Empire: Crimson Memory,2009,Drama,128.0,7.9,245571,3.53,13.36
+MV-11024,The Empire: Forgotten Courage,2014,Drama,115.0,7.5,436375,62.3,179.22
+MV-11025,The Empire: Forgotten Glory,2022,Drama,135.0,8.2,370392,45.05,132.51
+MV-11026,The Empire: Forgotten Kingdom,2013,Sci-Fi,152.0,5.7,790041,120.43,576.61
+MV-11027,The Empire: Frozen Galaxy,2000,Romance,120.0,7.1,241674,19.88,63.79
+MV-11028,The Empire: Furious Empire,2009,Action,117.0,7.2,489339,65.6,275.57
+MV-11029,The Empire: Furious Kingdom,2021,Drama,109.0,8.1,313442,47.96,67.66
+MV-11030,The Empire: Golden Symphony,2016,Thriller,98.0,,428486,44.61,173.95
+MV-11031,The Empire: Lost Justice,2016,Comedy,102.0,5.7,196839,21.06,54.33
+MV-11032,The Empire: Mystic Destiny,2021,Action,117.0,6.7,340560,30.9,88.81
+MV-11033,The Empire: Secret Destiny,2022,Thriller,124.0,7.6,457460,79.2,229.91
+MV-11034,The Empire: Secret Storm,2022,Sci-Fi,155.0,6.7,798541,113.31,540.5
+MV-11035,The Empire: Shattered Voyage,1994,Drama,106.0,7.5,254592,25.9,36.25
+MV-11036,The Empire: Starlight Galaxy,2013,Drama,155.0,8.1,268927,24.41,44.83
+MV-11037,The Empire: Wild Dreams,2018,Documentary,83.0,6.9,251040,17.27,44.63
+MV-11038,The Eternity: Ancient Odyssey,2018,Comedy,101.0,6.8,268413,38.51,95.77
+MV-11039,The Eternity: Ancient Sanctuary,2015,Drama,148.0,7.0,272134,37.31,85.23
+MV-11040,The Eternity: Brave Galaxy,2000,Drama,130.0,7.8,494611,58.78,183.4
+MV-11041,The Eternity: Crimson Galaxy,2019,Drama,113.0,8.0,203756,2.0,6.89
+MV-11042,The Eternity: Dark Glory,2018,Action,154.0,5.2,442742,81.32,254.01
+MV-11043,The Eternity: Dark Horizon,1993,Horror,108.0,6.5,275070,14.93,104.97
+MV-11044,The Eternity: Golden Future,2011,Comedy,105.0,7.5,220051,2.0,3.38
+MV-11045,The Eternity: Infinite Courage,2000,Action,,7.1,649672,136.69,395.17
+MV-11046,The Eternity: Iron Justice,2007,Sci-Fi,141.0,7.6,413206,36.58,196.36
+MV-11047,The Eternity: Iron Silence,1986,Action,145.0,6.8,850534,140.74,569.01
+MV-11048,The Eternity: Lost Galaxy,2010,Adventure,115.0,7.4,544133,107.47,269.04
+MV-11049,The Eternity: Lost Justice,2013,Adventure,110.0,6.4,453323,87.69,272.46
+MV-11050,The Eternity: Lost Valley,2015,Drama,127.0,,304346,17.39,53.14
+MV-11051,The Eternity: Mystic Winter,2016,Horror,93.0,5.6,189368,7.75,55.78
+MV-11052,The Eternity: Shattered Odyssey,2020,Action,130.0,6.7,426450,56.82,174.1
+MV-11053,The Eternity: Spectral Kingdom,2002,Documentary,81.0,6.8,240751,8.47,17.74
+MV-11054,The Eternity: Spectral Voyage,1997,Action,133.0,6.1,660010,83.87,439.93
+MV-11055,The Forgotten Courage,2021,Documentary,86.0,7.7,220048,7.49,17.67
+MV-11056,The Frontier: Ancient Kingdom,2000,Horror,96.0,5.6,238749,27.53,95.88
+MV-11057,The Frontier: Brave Empire,2024,Comedy,104.0,6.8,276584,42.13,114.8
+MV-11058,The Frontier: Cosmic Glory,2021,Thriller,133.0,8.2,306074,16.8,58.0
+MV-11059,The Frontier: Forgotten Glory,2012,Documentary,85.0,7.9,247985,11.09,27.04
+MV-11060,The Frontier: Forgotten Valley,2024,Adventure,114.0,6.8,511709,71.59,210.96
+MV-11061,The Frontier: Iron Eternity,1994,Drama,152.0,,471636,68.1,116.47
+MV-11062,The Frontier: Iron Kingdom,2006,Sci-Fi,131.0,7.1,598271,71.06,373.85
+MV-11063,The Frontier: Last Justice,2015,Comedy,111.0,7.6,599585,72.62,303.79
+MV-11064,The Frontier: Last Kingdom,2008,Drama,158.0,7.9,342028,30.99,123.63
+MV-11065,The Frontier: Lost Courage,2023,Action,148.0,5.0,1475526,114.81,1103.88
+MV-11066,The Frontier: Mystic Empire,1991,Comedy,91.0,6.8,268004,32.76,95.47
+MV-11067,The Frontier: Mystic Memory,2013,Adventure,127.0,8.4,907430,115.08,556.14
+MV-11068,The Frontier: Secret Empire,2014,Comedy,109.0,5.1,314772,43.61,160.1
+MV-11069,The Frontier: Secret Horizon,2016,Adventure,132.0,6.3,405244,55.61,241.5
+MV-11070,The Frontier: Shattered Winter,2004,Drama,150.0,7.1,191784,10.13,27.37
+MV-11071,The Frontier: Spectral Sanctuary,2008,Comedy,111.0,,259617,18.26,78.57
+MV-11072,The Frontier: Starlight Courage,2021,Comedy,93.0,7.5,382628,22.08,104.04
+MV-11073,The Frontier: Starlight Dreams,2001,Comedy,95.0,6.1,169707,5.05,19.75
+MV-11074,The Frontier: Starlight Labyrinth,2020,Drama,119.0,8.3,352137,30.11,105.12
+MV-11075,The Frozen Dreams,2014,Drama,163.0,7.4,223705,32.73,44.08
+MV-11076,The Furious Warrior,2019,Thriller,124.0,7.1,271456,10.26,17.31
+MV-11077,The Future: Brave Justice,2017,Comedy,95.0,6.4,273444,31.07,49.13
+MV-11078,The Future: Cosmic Winter,2002,Action,133.0,7.2,789013,107.18,514.07
+MV-11079,The Future: Crimson Warrior,2014,Action,111.0,6.8,620158,140.26,272.41
+MV-11080,The Future: Eternal Future,2021,Adventure,148.0,6.5,551911,82.43,323.73
+MV-11081,The Future: Frozen Future,2010,Romance,115.0,7.4,327713,34.01,119.07
+MV-11082,The Future: Hidden Future,2024,Action,153.0,7.3,1084891,126.66,745.36
+MV-11083,The Future: Iron Illusion,2011,Comedy,85.0,5.8,173576,19.98,50.08
+MV-11084,The Future: Lost Courage,1999,Drama,130.0,8.1,434724,65.78,162.57
+MV-11085,The Future: Midnight Labyrinth,2009,Animation,109.0,8.4,634692,50.79,330.41
+MV-11086,The Future: Spectral Empire,2023,Drama,143.0,8.0,256734,7.07,27.92
+MV-11087,The Future: Spectral Illusion,2006,Comedy,112.0,6.3,279499,36.85,126.63
+MV-11088,The Future: Spectral Valley,2021,Comedy,85.0,5.8,362988,51.22,211.47
+MV-11089,The Galaxy: Brave Silence,2022,Comedy,90.0,6.4,320822,39.32,137.01
+MV-11090,The Galaxy: Cosmic Destiny,2008,Drama,138.0,8.0,388842,40.78,96.25
+MV-11091,The Galaxy: Dark Galaxy,1993,Horror,87.0,6.3,301092,16.62,98.72
+MV-11092,The Galaxy: Dark Justice,2018,Drama,144.0,7.4,275057,20.41,52.68
+MV-11093,The Galaxy: Dark Labyrinth,2006,Sci-Fi,125.0,6.3,515079,102.77,329.9
+MV-11094,The Galaxy: Dark Silence,2019,Drama,159.0,7.5,246102,22.69,57.17
+MV-11095,The Galaxy: Forgotten Memory,2011,Drama,123.0,8.2,314019,17.88,57.39
+MV-11096,The Galaxy: Frozen Frontier,2012,Romance,103.0,,193152,18.98,65.49
+MV-11097,The Galaxy: Furious Empire,2019,Drama,131.0,8.2,433913,76.31,164.83
+MV-11098,The Galaxy: Hidden Valley,2009,Adventure,148.0,7.1,264891,49.09,94.11
+MV-11099,The Galaxy: Infinite Galaxy,2011,Thriller,117.0,7.2,217102,12.66,45.15
+MV-11100,The Galaxy: Infinite Winter,2009,Drama,145.0,8.1,266752,8.72,20.78
+MV-11101,The Galaxy: Iron Sanctuary,2008,Animation,114.0,7.2,511914,77.17,202.09
+MV-11102,The Galaxy: Last Justice,2013,Comedy,103.0,7.0,290873,50.83,120.33
+MV-11103,The Galaxy: Midnight Memory,2020,Adventure,110.0,6.1,276352,67.67,134.66
+MV-11104,The Galaxy: Mystic Wilderness,2008,Drama,112.0,9.1,416881,47.1,129.27
+MV-11105,The Galaxy: Secret Kingdom,2013,Adventure,122.0,6.9,395719,74.92,185.51
+MV-11106,The Galaxy: Shattered Symphony,2016,Drama,146.0,6.2,328657,51.9,120.16
+MV-11107,The Galaxy: Wild Eternity,2004,Thriller,103.0,7.3,359446,57.82,155.6
+MV-11108,The Glory: Cosmic Destiny,2005,Horror,95.0,,278740,15.21,80.2
+MV-11109,The Glory: Crimson Symphony,2023,Animation,92.0,7.1,667564,77.99,368.73
+MV-11110,The Glory: Dark Frontier,2018,Romance,124.0,5.5,165648,29.71,66.98
+MV-11111,The Glory: Dark Kingdom,2014,Adventure,130.0,7.8,769258,109.78,405.38
+MV-11112,The Glory: Eternal Glory,2016,Romance,111.0,6.6,343832,31.05,143.16
+MV-11113,The Glory: Forgotten Glory,1987,Drama,115.0,7.8,280379,20.96,44.27
+MV-11114,The Glory: Furious Justice,2015,Comedy,110.0,6.0,175689,2.0,9.48
+MV-11115,The Glory: Infinite Future,2012,Comedy,111.0,5.7,238495,28.01,80.08
+MV-11116,The Glory: Infinite Galaxy,2013,Action,114.0,7.7,531779,102.17,204.66
+MV-11117,The Glory: Iron Sanctuary,2008,Action,120.0,7.5,1094145,162.2,765.31
+MV-11118,The Glory: Last Illusion,1993,Thriller,118.0,8.1,339237,37.24,102.76
+MV-11119,The Glory: Lost Tomorrow,2001,Drama,122.0,7.5,212165,14.78,22.33
+MV-11120,The Glory: Midnight Future,2023,Sci-Fi,116.0,7.6,534956,83.95,259.31
+MV-11121,The Glory: Mystic Symphony,2010,Drama,139.0,7.8,277400,33.48,71.94
+MV-11122,The Glory: Secret Labyrinth,2011,Comedy,103.0,5.8,371143,58.06,190.46
+MV-11123,The Glory: Shattered Illusion,1990,Action,128.0,7.1,529194,141.78,307.71
+MV-11124,The Glory: Silent Illusion,1988,Horror,97.0,4.9,135738,8.65,32.78
+MV-11125,The Glory: Starlight Tomorrow,2017,Horror,85.0,5.0,207149,9.16,71.83
+MV-11126,The Golden Valley,2013,Sci-Fi,130.0,7.2,465025,75.29,199.16
+MV-11127,The Horizon: Ancient Sanctuary,2012,Drama,141.0,8.2,626223,68.84,261.59
+MV-11128,The Horizon: Cosmic Illusion,2003,Thriller,115.0,6.8,180892,2.0,3.95
+MV-11129,The Horizon: Crimson Galaxy,2018,Drama,135.0,7.8,359064,28.59,73.45
+MV-11130,The Horizon: Dark Future,2000,Action,135.0,,1069107,178.62,766.01
+MV-11131,The Horizon: Eternal Memory,2001,Action,112.0,5.6,534770,111.89,365.15
+MV-11132,The Horizon: Hidden Future,2011,Drama,123.0,8.5,364002,30.55,73.19
+MV-11133,The Horizon: Hidden Sanctuary,2005,Comedy,110.0,6.1,188937,3.28,8.78
+MV-11134,The Horizon: Hidden Symphony,2003,Animation,86.0,7.8,463257,43.98,207.25
+MV-11135,The Horizon: Lost Voyage,2016,Animation,90.0,7.4,259415,2.0,12.53
+MV-11136,The Horizon: Midnight Labyrinth,2016,Comedy,104.0,6.1,264911,49.25,115.71
+MV-11137,The Horizon: Mystic Frontier,2020,Drama,126.0,7.0,192123,11.36,33.6
+MV-11138,The Horizon: Mystic Kingdom,2010,Drama,155.0,7.5,414970,54.54,196.07
+MV-11139,The Horizon: Radiant Courage,1992,Action,110.0,6.3,1410887,225.57,963.35
+MV-11140,The Horizon: Shattered Storm,2004,Animation,104.0,7.3,486450,89.49,254.38
+MV-11141,The Horizon: Starlight Symphony,2024,Drama,131.0,8.3,254040,2.0,3.52
+MV-11142,The Illusion: Ancient Glory,2014,Horror,86.0,5.7,230697,11.21,42.28
+MV-11143,The Illusion: Brave Empire,2017,Drama,108.0,7.7,201266,6.81,17.52
+MV-11144,The Illusion: Brave Sanctuary,1985,Documentary,78.0,7.3,179718,2.0,3.49
+MV-11145,The Illusion: Cosmic Odyssey,2012,Action,139.0,6.8,935453,121.64,658.4
+MV-11146,The Illusion: Forgotten Galaxy,1988,Horror,,5.2,301843,15.23,118.47
+MV-11147,The Illusion: Forgotten Glory,2014,Comedy,107.0,6.7,471427,52.69,230.27
+MV-11148,The Illusion: Infinite Sanctuary,2023,Thriller,108.0,6.4,293595,58.83,141.9
+MV-11149,The Illusion: Iron Winter,2024,Drama,161.0,7.7,312628,2.0,4.65
+MV-11150,The Illusion: Last Illusion,2013,Drama,125.0,8.1,327338,37.09,90.79
+MV-11151,The Illusion: Last Silence,2011,Animation,107.0,7.5,548100,95.3,300.13
+MV-11152,The Illusion: Radiant Frontier,2023,Romance,110.0,6.5,340853,34.72,151.43
+MV-11153,The Illusion: Spectral Frontier,2016,Romance,121.0,6.6,180701,9.72,44.05
+MV-11154,The Illusion: Spectral Horizon,1991,Thriller,99.0,7.6,307979,24.29,83.22
+MV-11155,The Illusion: Spectral Winter,2011,Horror,96.0,5.8,232451,21.97,108.39
+MV-11156,The Infinite Destiny,2003,Drama,140.0,7.4,190702,8.57,21.82
+MV-11157,The Infinite Memory,2011,Comedy,87.0,5.7,509702,70.86,308.51
+MV-11158,The Infinite Storm,2011,Comedy,,5.6,472668,39.53,161.17
+MV-11159,The Justice: Cosmic Eternity,2014,Sci-Fi,138.0,6.4,833945,166.97,589.89
+MV-11160,The Justice: Crimson Labyrinth,2008,Comedy,92.0,7.5,358758,25.95,71.11
+MV-11161,The Justice: Dark Valley,2000,Drama,110.0,8.6,301739,14.04,26.28
+MV-11162,The Justice: Forgotten Justice,2012,Thriller,101.0,6.9,417789,56.56,217.91
+MV-11163,The Justice: Forgotten Labyrinth,2020,Adventure,133.0,7.4,769326,99.65,461.2
+MV-11164,The Justice: Golden Eternity,2016,Action,112.0,5.8,1747764,236.45,1366.3
+MV-11165,The Justice: Golden Frontier,2007,Drama,129.0,7.6,307391,23.42,84.5
+MV-11166,The Justice: Infinite Tomorrow,2023,Drama,156.0,7.3,309244,44.49,122.63
+MV-11167,The Justice: Iron Courage,2022,Comedy,112.0,,128397,5.06,12.65
+MV-11168,The Justice: Lost Warrior,2002,Comedy,92.0,7.2,295411,24.89,105.86
+MV-11169,The Justice: Midnight Future,1988,Sci-Fi,136.0,7.0,947180,143.07,641.96
+MV-11170,The Justice: Mystic Labyrinth,2018,Thriller,129.0,6.9,293640,23.66,72.35
+MV-11171,The Justice: Silent Justice,2020,Sci-Fi,124.0,6.9,740091,194.97,496.8
+MV-11172,The Justice: Silent Warrior,2024,Action,133.0,6.7,614179,87.27,385.08
+MV-11173,The Justice: Spectral Warrior,2022,Adventure,127.0,6.8,417676,31.67,171.65
+MV-11174,The Justice: Starlight Labyrinth,2015,Comedy,89.0,7.8,544012,70.61,287.83
+MV-11175,The Kingdom: Cosmic Silence,2013,Action,131.0,6.9,511010,118.56,301.46
+MV-11176,The Kingdom: Forgotten Courage,1987,Horror,103.0,5.8,198308,2.0,15.12
+MV-11177,The Kingdom: Frozen Labyrinth,2003,Drama,132.0,8.6,234223,2.0,3.84
+MV-11178,The Kingdom: Frozen Winter,2011,Drama,161.0,7.3,247810,20.31,51.78
+MV-11179,The Kingdom: Hidden Symphony,2015,Romance,90.0,6.3,185748,12.62,50.56
+MV-11180,The Kingdom: Infinite Warrior,2013,Comedy,97.0,7.0,267420,37.87,97.55
+MV-11181,The Kingdom: Iron Future,2018,Sci-Fi,137.0,6.8,1241043,141.62,899.14
+MV-11182,The Kingdom: Lost Silence,2005,Drama,122.0,,364245,49.79,124.39
+MV-11183,The Kingdom: Midnight Kingdom,2014,Sci-Fi,137.0,8.0,1417578,193.83,999.73
+MV-11184,The Kingdom: Radiant Courage,1993,Comedy,103.0,6.5,438324,74.39,228.35
+MV-11185,The Kingdom: Radiant Justice,2010,Drama,138.0,8.5,489119,58.41,188.54
+MV-11186,The Kingdom: Secret Glory,2018,Thriller,115.0,6.7,342008,81.85,175.51
+MV-11187,The Kingdom: Secret Silence,2017,Comedy,101.0,6.7,269331,36.5,98.29
+MV-11188,The Kingdom: Silent Silence,2024,Action,119.0,7.3,492390,43.66,208.47
+MV-11189,The Kingdom: Wild Galaxy,2005,Drama,131.0,8.2,318245,24.46,88.53
+MV-11190,The Kingdom: Wild Horizon,2012,Drama,106.0,7.5,300143,21.05,82.59
+MV-11191,The Labyrinth: Cosmic Courage,2007,Comedy,96.0,6.3,394621,54.64,138.8
+MV-11192,The Labyrinth: Crimson Kingdom,2011,Drama,155.0,7.6,394719,52.01,177.92
+MV-11193,The Labyrinth: Crimson Odyssey,2021,Romance,110.0,6.7,292946,49.81,86.68
+MV-11194,The Labyrinth: Dark Labyrinth,2017,Drama,115.0,7.5,339688,34.07,131.3
+MV-11195,The Labyrinth: Eternal Memory,2022,Action,120.0,7.5,933001,158.83,633.34
+MV-11196,The Labyrinth: Golden Valley,2002,Drama,138.0,7.6,342746,53.96,89.91
+MV-11197,The Labyrinth: Lost Frontier,2021,Comedy,88.0,5.8,249978,23.09,77.07
+MV-11198,The Labyrinth: Lost Silence,1990,Romance,101.0,6.5,210364,15.25,64.56
+MV-11199,The Labyrinth: Midnight Valley,2022,Drama,118.0,,234264,19.3,42.18
+MV-11200,The Labyrinth: Secret Horizon,2007,Animation,113.0,8.0,676088,115.94,343.08
+MV-11201,The Labyrinth: Secret Odyssey,2006,Comedy,89.0,5.9,243146,47.67,84.23
+MV-11202,The Labyrinth: Shattered Tomorrow,2012,Horror,100.0,5.9,237238,9.69,77.14
+MV-11203,The Labyrinth: Silent Dreams,2023,Thriller,124.0,6.5,186369,21.57,45.78
+MV-11204,The Labyrinth: Starlight Voyage,1989,Romance,110.0,7.3,237521,19.99,44.93
+MV-11205,The Lost Galaxy,2008,Thriller,95.0,6.4,389750,39.38,173.72
+MV-11206,The Lost Valley,2021,Thriller,114.0,7.2,263328,22.52,84.16
+MV-11207,The Memory: Ancient Future,2009,Drama,139.0,8.2,463560,41.96,145.11
+MV-11208,The Memory: Ancient Warrior,2001,Drama,161.0,8.4,271994,2.0,6.85
+MV-11209,The Memory: Ancient Wilderness,2010,Romance,124.0,6.2,201795,14.57,34.72
+MV-11210,The Memory: Cosmic Wilderness,2009,Comedy,87.0,6.7,301181,56.63,131.82
+MV-11211,The Memory: Crimson Illusion,2022,Action,138.0,7.2,1052308,131.76,719.67
+MV-11212,The Memory: Dark Frontier,2019,Horror,107.0,7.2,230592,14.73,47.13
+MV-11213,The Memory: Forgotten Eternity,2012,Comedy,93.0,6.0,240693,27.51,114.41
+MV-11214,The Memory: Forgotten Horizon,2024,Animation,94.0,7.6,367824,42.68,139.76
+MV-11215,The Memory: Frozen Frontier,2011,Horror,100.0,6.1,322982,15.23,58.78
+MV-11216,The Memory: Frozen Horizon,1990,Thriller,110.0,6.2,295785,52.1,151.64
+MV-11217,The Memory: Golden Storm,2004,Romance,91.0,5.1,161041,16.99,35.37
+MV-11218,The Memory: Hidden Justice,2010,Drama,164.0,8.5,318613,5.49,21.4
+MV-11219,The Memory: Infinite Valley,2000,Comedy,98.0,6.0,279221,42.61,135.92
+MV-11220,The Memory: Iron Dreams,2023,Action,117.0,6.2,745967,104.55,504.11
+MV-11221,The Memory: Midnight Galaxy,2019,Comedy,89.0,6.3,196224,13.59,64.56
+MV-11222,The Memory: Midnight Glory,2004,Horror,90.0,6.2,277144,26.62,126.32
+MV-11223,The Memory: Secret Valley,2014,Romance,100.0,6.9,297868,22.79,94.53
+MV-11224,The Memory: Silent Symphony,2018,Action,145.0,7.3,377148,44.41,169.78
+MV-11225,The Mystic Frontier,2023,Comedy,104.0,6.2,250923,53.86,92.63
+MV-11226,The Mystic Labyrinth,2022,Animation,95.0,7.6,683204,89.67,389.48
+MV-11227,The Odyssey: Ancient Warrior,2012,Action,114.0,7.0,1357763,106.49,972.67
+MV-11228,The Odyssey: Cosmic Horizon,2019,Action,144.0,6.5,1252476,155.67,901.59
+MV-11229,The Odyssey: Hidden Sanctuary,2014,Comedy,102.0,6.2,270276,24.09,100.82
+MV-11230,The Odyssey: Hidden Winter,2013,Romance,119.0,5.3,268850,32.5,157.46
+MV-11231,The Odyssey: Iron Horizon,1996,Thriller,129.0,7.4,264933,30.43,55.65
+MV-11232,The Odyssey: Iron Warrior,1997,Horror,106.0,7.3,330052,14.21,98.41
+MV-11233,The Odyssey: Midnight Symphony,2013,Adventure,147.0,5.9,321184,90.73,175.48
+MV-11234,The Odyssey: Radiant Kingdom,2004,Comedy,89.0,5.3,157719,39.83,64.86
+MV-11235,The Odyssey: Shattered Empire,1987,Action,147.0,5.5,3007090,171.44,2403.08
+MV-11236,The Odyssey: Starlight Sanctuary,2018,Adventure,117.0,7.7,804594,133.98,455.93
+MV-11237,The Radiant Galaxy,1988,Action,116.0,6.5,562211,101.71,282.9
+MV-11238,The Radiant Memory,2014,Horror,84.0,6.7,392135,2.0,14.89
+MV-11239,The Radiant Wilderness,2013,Animation,,7.3,530595,58.84,299.34
+MV-11240,The Sanctuary: Ancient Kingdom,2024,Thriller,118.0,7.5,591202,60.29,263.41
+MV-11241,The Sanctuary: Ancient Memory,2012,Horror,103.0,5.0,239149,17.0,93.48
+MV-11242,The Sanctuary: Crimson Eternity,1991,Horror,107.0,5.6,255929,21.74,126.05
+MV-11243,The Sanctuary: Eternal Justice,2013,Adventure,110.0,6.8,698502,91.91,459.04
+MV-11244,The Sanctuary: Eternal Kingdom,2021,Action,122.0,6.8,458904,136.65,265.11
+MV-11245,The Sanctuary: Frozen Dreams,2024,Drama,111.0,7.9,241985,16.63,29.45
+MV-11246,The Sanctuary: Golden Destiny,2010,Action,148.0,7.1,719044,107.65,428.6
+MV-11247,The Sanctuary: Golden Voyage,2006,Sci-Fi,118.0,7.3,648756,87.38,325.78
+MV-11248,The Sanctuary: Infinite Justice,2022,Action,127.0,6.9,1989817,243.29,1460.5
+MV-11249,The Sanctuary: Midnight Galaxy,2001,Horror,89.0,5.3,302076,24.71,90.14
+MV-11250,The Sanctuary: Mystic Glory,2015,Comedy,,5.8,269017,51.31,136.35
+MV-11251,The Sanctuary: Mystic Kingdom,2010,Sci-Fi,141.0,8.1,453138,55.54,193.36
+MV-11252,The Sanctuary: Radiant Horizon,1989,Drama,153.0,7.4,351500,38.16,107.97
+MV-11253,The Sanctuary: Radiant Labyrinth,2007,Horror,90.0,6.6,135894,2.0,6.48
+MV-11254,The Sanctuary: Secret Valley,2004,Thriller,101.0,6.4,240694,44.29,87.88
+MV-11255,The Sanctuary: Secret Voyage,2017,Comedy,87.0,7.2,222442,14.15,48.71
+MV-11256,The Sanctuary: Silent Odyssey,2023,Comedy,110.0,7.5,452513,34.34,97.52
+MV-11257,The Sanctuary: Silent Wilderness,2004,Horror,103.0,6.1,293607,21.29,108.69
+MV-11258,The Sanctuary: Spectral Glory,2020,Action,149.0,6.6,932902,123.17,645.24
+MV-11259,The Sanctuary: Starlight Wilderness,1990,Comedy,90.0,6.8,249521,31.03,61.5
+MV-11260,The Secret Empire,2013,Animation,102.0,7.2,545219,57.94,272.37
+MV-11261,The Secret Eternity,1992,Sci-Fi,158.0,6.5,545897,94.82,341.5
+MV-11262,The Secret Horizon,2023,Animation,85.0,7.5,714411,86.85,339.38
+MV-11263,The Secret Labyrinth,2019,Action,141.0,7.2,1679272,200.21,1196.03
+MV-11264,The Secret Symphony,2016,Action,141.0,6.3,758963,165.74,525.15
+MV-11265,The Silence: Brave Winter,2020,Romance,109.0,6.9,257199,19.41,38.61
+MV-11266,The Silence: Crimson Frontier,2016,Thriller,119.0,7.2,197967,10.45,23.72
+MV-11267,The Silence: Eternal Kingdom,2024,Sci-Fi,130.0,7.2,624754,115.51,377.72
+MV-11268,The Silence: Hidden Memory,2017,Comedy,105.0,7.0,316006,57.12,107.16
+MV-11269,The Silence: Iron Winter,2023,Action,122.0,6.8,605601,94.53,350.92
+MV-11270,The Silence: Last Illusion,2012,Drama,123.0,7.6,308373,26.95,84.59
+MV-11271,The Silence: Last Wilderness,1996,Comedy,95.0,6.6,418363,71.8,218.88
+MV-11272,The Silence: Mystic Glory,2013,Drama,143.0,7.2,253686,47.34,77.5
+MV-11273,The Silence: Radiant Dreams,1997,Drama,143.0,7.7,333743,48.0,82.38
+MV-11274,The Silence: Shattered Glory,2014,Documentary,108.0,7.9,237733,12.67,40.33
+MV-11275,The Silence: Spectral Voyage,2012,Comedy,88.0,6.3,193404,24.7,42.72
+MV-11276,The Silence: Starlight Valley,2015,Sci-Fi,136.0,7.7,545360,103.53,256.23
+MV-11277,The Silence: Wild Frontier,1986,Adventure,111.0,7.6,1055743,124.68,665.7
+MV-11278,The Silent Dreams,2001,Thriller,107.0,6.3,232890,43.38,95.19
+MV-11279,The Silent Kingdom,2012,Drama,123.0,7.7,353007,45.29,126.6
+MV-11280,The Spectral Horizon,2023,Sci-Fi,135.0,6.3,738439,227.13,463.83
+MV-11281,The Starlight Symphony,2009,Thriller,98.0,7.3,411215,60.33,189.45
+MV-11282,The Storm: Ancient Silence,2010,Horror,106.0,6.6,350478,21.78,151.87
+MV-11283,The Storm: Brave Silence,2017,Horror,94.0,5.9,199496,25.58,80.71
+MV-11284,The Storm: Cosmic Justice,2015,Documentary,83.0,7.5,346954,2.0,5.6
+MV-11285,The Storm: Cosmic Labyrinth,2005,Thriller,112.0,8.6,578866,87.71,268.52
+MV-11286,The Storm: Furious Dreams,2010,Comedy,85.0,6.3,265383,23.22,50.53
+MV-11287,The Storm: Golden Valley,2002,Sci-Fi,156.0,7.0,315282,27.7,69.11
+MV-11288,The Storm: Infinite Courage,2024,Drama,156.0,8.4,259338,22.89,34.75
+MV-11289,The Storm: Infinite Galaxy,1998,Romance,116.0,7.5,411416,26.81,120.01
+MV-11290,The Storm: Iron Labyrinth,2008,Drama,122.0,7.8,274903,15.53,54.79
+MV-11291,The Storm: Last Labyrinth,1987,Comedy,109.0,5.8,368181,48.59,225.04
+MV-11292,The Storm: Lost Voyage,2002,Adventure,145.0,7.0,204019,12.8,43.21
+MV-11293,The Storm: Radiant Dreams,2019,Thriller,109.0,6.5,214656,27.38,54.11
+MV-11294,The Storm: Shattered Eternity,2002,Action,145.0,7.5,886656,123.2,561.89
+MV-11295,The Storm: Spectral Dreams,1993,Action,130.0,6.6,962442,125.0,686.77
+MV-11296,The Storm: Starlight Glory,2011,Adventure,140.0,7.4,458785,126.15,222.94
+MV-11297,The Symphony: Brave Illusion,1985,Comedy,106.0,6.7,172174,15.39,27.36
+MV-11298,The Symphony: Crimson Odyssey,1993,Adventure,129.0,6.3,473244,118.21,291.16
+MV-11299,The Symphony: Eternal Voyage,2020,Drama,119.0,7.6,216184,5.42,16.52
+MV-11300,The Symphony: Forgotten Horizon,2019,Horror,103.0,5.6,238566,19.84,54.93
+MV-11301,The Symphony: Frozen Courage,2022,Adventure,113.0,7.7,1481179,182.54,1013.02
+MV-11302,The Symphony: Frozen Destiny,2021,Drama,129.0,7.1,182274,13.54,22.6
+MV-11303,The Symphony: Frozen Valley,2017,Action,115.0,6.7,519654,92.65,294.8
+MV-11304,The Symphony: Furious Future,1990,Drama,164.0,7.2,167099,2.0,4.29
+MV-11305,The Symphony: Golden Tomorrow,2019,Sci-Fi,121.0,6.3,558230,107.77,349.28
+MV-11306,The Symphony: Infinite Labyrinth,2021,Thriller,105.0,6.4,394012,34.23,93.06
+MV-11307,The Symphony: Infinite Warrior,2019,Sci-Fi,129.0,7.8,736010,147.32,309.31
+MV-11308,The Symphony: Last Symphony,2012,Drama,151.0,7.8,383249,42.43,141.77
+MV-11309,The Symphony: Lost Labyrinth,2003,Comedy,112.0,6.9,339724,41.45,154.23
+MV-11310,The Symphony: Midnight Labyrinth,2021,Drama,107.0,7.7,289549,42.16,87.27
+MV-11311,The Symphony: Secret Frontier,2018,Comedy,109.0,6.7,338424,43.37,157.38
+MV-11312,The Symphony: Starlight Destiny,2024,Thriller,107.0,6.9,255287,24.06,71.04
+MV-11313,The Symphony: Wild Glory,2000,Adventure,147.0,6.3,690783,95.01,454.93
+MV-11314,The Symphony: Wild Warrior,2003,Sci-Fi,116.0,,784566,99.88,498.62
+MV-11315,The Tomorrow: Brave Voyage,2002,Action,145.0,6.0,916060,141.93,633.37
+MV-11316,The Tomorrow: Dark Eternity,2019,Animation,103.0,7.4,1602724,106.98,1150.51
+MV-11317,The Tomorrow: Dark Silence,2001,Sci-Fi,146.0,6.9,474455,94.32,202.75
+MV-11318,The Tomorrow: Frozen Frontier,1991,Animation,85.0,,473496,53.94,223.45
+MV-11319,The Tomorrow: Hidden Destiny,2024,Thriller,107.0,6.1,289320,34.79,137.77
+MV-11320,The Tomorrow: Last Galaxy,1987,Comedy,97.0,6.4,459785,54.52,179.7
+MV-11321,The Tomorrow: Mystic Courage,2020,Drama,158.0,7.5,219951,7.01,27.49
+MV-11322,The Tomorrow: Secret Dreams,2008,Sci-Fi,131.0,7.0,943137,116.16,549.62
+MV-11323,The Tomorrow: Secret Galaxy,2021,Drama,151.0,7.9,283988,24.95,71.33
+MV-11324,The Tomorrow: Spectral Destiny,2013,Comedy,111.0,6.5,435345,55.21,178.3
+MV-11325,The Valley: Ancient Odyssey,2022,Thriller,133.0,6.5,204915,24.8,40.87
+MV-11326,The Valley: Brave Valley,2023,Thriller,95.0,6.4,237005,36.7,97.19
+MV-11327,The Valley: Forgotten Empire,1985,Thriller,128.0,6.7,265650,16.23,66.21
+MV-11328,The Valley: Forgotten Future,1992,Drama,118.0,8.0,317390,23.4,54.39
+MV-11329,The Valley: Iron Glory,2004,Action,130.0,6.4,203289,13.67,68.75
+MV-11330,The Valley: Iron Memory,2016,Thriller,115.0,7.0,304944,28.75,118.64
+MV-11331,The Valley: Last Odyssey,2022,Animation,112.0,8.0,1417417,91.31,1002.8
+MV-11332,The Valley: Lost Storm,2011,Sci-Fi,122.0,4.8,745062,92.54,517.0
+MV-11333,The Valley: Lost Symphony,2015,Romance,122.0,6.6,277537,33.22,111.15
+MV-11334,The Valley: Midnight Empire,2001,Horror,93.0,6.9,238007,11.4,56.85
+MV-11335,The Valley: Midnight Wilderness,2020,Thriller,134.0,7.0,261521,24.3,91.95
+MV-11336,The Valley: Radiant Eternity,2024,Drama,141.0,8.1,275374,23.27,50.02
+MV-11337,The Valley: Silent Empire,2004,Sci-Fi,141.0,6.7,483810,77.95,268.92
+MV-11338,The Valley: Spectral Eternity,2012,Thriller,118.0,8.2,374337,58.24,136.74
+MV-11339,The Valley: Wild Winter,1993,Thriller,125.0,6.8,336546,54.4,144.37
+MV-11340,The Voyage: Brave Silence,2013,Action,133.0,6.6,1712015,120.67,1262.18
+MV-11341,The Voyage: Eternal Valley,2012,Thriller,113.0,7.2,316474,48.26,128.73
+MV-11342,The Voyage: Frozen Horizon,1999,Comedy,113.0,7.4,296961,37.15,97.66
+MV-11343,The Voyage: Furious Sanctuary,2011,Thriller,134.0,6.4,248542,41.53,86.24
+MV-11344,The Voyage: Furious Voyage,2007,Drama,107.0,6.3,173688,10.18,34.54
+MV-11345,The Voyage: Golden Valley,2013,Horror,109.0,6.4,184957,3.69,11.05
+MV-11346,The Voyage: Infinite Courage,2014,Drama,164.0,7.7,415840,53.36,137.83
+MV-11347,The Voyage: Infinite Tomorrow,1985,Drama,161.0,7.4,284610,26.18,52.29
+MV-11348,The Voyage: Iron Destiny,2019,Action,148.0,7.0,1028992,177.96,720.45
+MV-11349,The Voyage: Midnight Odyssey,2017,Sci-Fi,152.0,7.7,1053103,183.38,719.27
+MV-11350,The Voyage: Midnight Symphony,2008,Action,127.0,6.8,1445905,191.65,1076.48
+MV-11351,The Voyage: Mystic Tomorrow,1990,Comedy,111.0,7.5,187526,2.0,5.2
+MV-11352,The Voyage: Radiant Kingdom,2018,Thriller,121.0,6.7,391503,52.59,186.04
+MV-11353,The Voyage: Radiant Symphony,2023,Comedy,90.0,6.0,160158,3.59,13.67
+MV-11354,The Voyage: Spectral Courage,2003,Animation,100.0,7.8,868103,112.41,556.94
+MV-11355,The Voyage: Spectral Wilderness,2006,Romance,120.0,7.4,317867,34.2,120.48
+MV-11356,The Voyage: Starlight Silence,2001,Action,134.0,7.8,544390,67.62,262.96
+MV-11357,The Warrior: Ancient Horizon,2014,Comedy,105.0,6.7,302398,45.17,116.98
+MV-11358,The Warrior: Ancient Valley,2000,Horror,85.0,5.0,225613,17.26,95.65
+MV-11359,The Warrior: Brave Illusion,2008,Drama,128.0,8.4,334372,29.93,46.35
+MV-11360,The Warrior: Frozen Silence,2017,Action,117.0,6.5,1364280,186.36,1033.76
+MV-11361,The Warrior: Golden Horizon,2014,Comedy,106.0,6.5,212504,29.48,60.57
+MV-11362,The Warrior: Golden Wilderness,2009,Romance,116.0,6.7,329191,34.92,157.82
+MV-11363,The Warrior: Infinite Frontier,2010,Drama,153.0,7.0,250177,39.99,83.25
+MV-11364,The Warrior: Infinite Wilderness,2014,Thriller,110.0,7.4,241256,14.44,64.45
+MV-11365,The Warrior: Iron Silence,1985,Horror,97.0,6.7,273411,17.46,92.24
+MV-11366,The Warrior: Last Labyrinth,1992,Action,131.0,6.5,702772,108.98,457.83
+MV-11367,The Warrior: Midnight Glory,2022,Drama,113.0,7.6,214687,10.6,31.13
+MV-11368,The Warrior: Silent Frontier,1992,Documentary,91.0,8.0,255563,7.08,22.39
+MV-11369,The Warrior: Silent Glory,2017,Thriller,115.0,7.3,232319,19.82,60.8
+MV-11370,The Warrior: Wild Symphony,2023,Thriller,97.0,7.3,354125,33.54,108.28
+MV-11371,The Wilderness: Cosmic Storm,2004,Comedy,97.0,6.3,202984,15.58,46.88
+MV-11372,The Wilderness: Crimson Storm,2008,Action,114.0,6.9,420204,44.42,184.14
+MV-11373,The Wilderness: Eternal Galaxy,2014,Action,133.0,7.8,634750,151.74,304.18
+MV-11374,The Wilderness: Eternal Illusion,2022,Drama,106.0,8.0,290853,27.12,60.24
+MV-11375,The Wilderness: Eternal Sanctuary,2023,Drama,163.0,8.4,278177,2.0,7.1
+MV-11376,The Wilderness: Forgotten Courage,2018,Adventure,120.0,6.9,737530,83.54,422.45
+MV-11377,The Wilderness: Forgotten Storm,1993,Comedy,113.0,6.8,390174,54.72,162.37
+MV-11378,The Wilderness: Frozen Voyage,2016,Drama,149.0,7.1,316777,31.44,119.37
+MV-11379,The Wilderness: Furious Frontier,2010,Action,126.0,7.8,763224,169.63,471.69
+MV-11380,The Wilderness: Golden Warrior,2011,Horror,87.0,7.0,301995,9.72,75.91
+MV-11381,The Wilderness: Infinite Eternity,1989,Drama,161.0,6.6,335501,38.71,136.54
+MV-11382,The Wilderness: Iron Odyssey,2001,Thriller,133.0,7.0,166047,2.97,8.74
+MV-11383,The Wilderness: Last Glory,2019,Drama,140.0,6.8,141773,2.0,4.5
+MV-11384,The Wilderness: Mystic Frontier,2011,Drama,136.0,7.2,195240,12.76,29.76
+MV-11385,The Wilderness: Mystic Winter,2006,Drama,135.0,8.4,472999,56.1,194.12
+MV-11386,The Wilderness: Radiant Warrior,2009,Adventure,130.0,6.8,1006815,158.82,706.93
+MV-11387,The Wilderness: Secret Kingdom,2021,Drama,130.0,7.5,282188,39.62,86.42
+MV-11388,The Wilderness: Silent Frontier,2018,Drama,126.0,8.1,276845,3.79,13.06
+MV-11389,The Wilderness: Starlight Labyrinth,2004,Action,126.0,6.9,713681,121.68,434.34
+MV-11390,The Winter: Ancient Eternity,1996,Adventure,139.0,6.9,394225,37.17,188.38
+MV-11391,The Winter: Ancient Galaxy,2004,Comedy,105.0,7.1,303073,40.86,99.66
+MV-11392,The Winter: Crimson Memory,2023,Action,115.0,7.6,594705,160.32,333.31
+MV-11393,The Winter: Forgotten Symphony,2014,Drama,112.0,7.1,237012,23.82,57.0
+MV-11394,The Winter: Furious Glory,2013,Action,143.0,7.2,637852,182.81,364.68
+MV-11395,The Winter: Furious Valley,2014,Thriller,96.0,6.5,345542,51.7,164.61
+MV-11396,The Winter: Iron Valley,2008,Thriller,111.0,7.0,381552,61.12,99.75
+MV-11397,The Winter: Lost Wilderness,2020,Comedy,112.0,6.4,341852,74.06,133.78
+MV-11398,The Winter: Midnight Sanctuary,2013,Comedy,87.0,6.2,159467,19.89,40.35
+MV-11399,The Winter: Radiant Kingdom,1996,Drama,130.0,7.8,241630,27.91,40.79
+MV-11400,The Winter: Shattered Frontier,1997,Action,142.0,6.7,1771832,182.75,1357.15
+MV-11401,The Winter: Silent Future,2013,Drama,137.0,8.2,367847,56.54,131.64
+MV-11402,The Winter: Starlight Memory,2023,Horror,103.0,7.1,255315,8.21,43.69
+MV-11403,The Winter: Starlight Warrior,2006,Animation,112.0,7.7,896774,113.63,507.15
+MV-11404,Tomorrow of Courage,2021,Documentary,94.0,7.7,211033,2.81,3.95
+MV-11405,Tomorrow of Empire,2019,Adventure,132.0,6.6,771367,90.56,487.44
+MV-11406,Tomorrow of Eternity,2003,Thriller,128.0,7.8,280608,25.37,73.44
+MV-11407,Tomorrow of Future,1988,Sci-Fi,120.0,6.5,1659726,103.91,1260.66
+MV-11408,Tomorrow of Glory,1995,Comedy,94.0,5.7,302552,39.63,161.96
+MV-11409,Tomorrow of Illusion,2018,Sci-Fi,141.0,7.6,1071279,143.24,731.92
+MV-11410,Tomorrow of Justice,2001,Action,132.0,7.1,575891,130.98,305.68
+MV-11411,Tomorrow of Odyssey,2008,Action,129.0,6.3,290277,27.98,123.67
+MV-11412,Tomorrow of Silence,2012,Horror,87.0,7.1,362447,38.05,138.08
+MV-11413,Tomorrow of Storm,2018,Comedy,,5.9,175150,9.98,47.59
+MV-11414,Tomorrow of Valley,1996,Comedy,107.0,7.3,350036,30.41,122.79
+MV-11415,Tomorrow of Warrior,2010,Romance,119.0,6.8,266900,37.93,92.39
+MV-11416,Tomorrow of Wilderness,2012,Drama,150.0,7.0,255519,38.91,54.12
+MV-11417,Valley of Destiny,2013,Action,121.0,7.9,1329944,114.89,942.77
+MV-11418,Valley of Dreams,2020,Romance,99.0,6.6,326255,70.69,163.66
+MV-11419,Valley of Frontier,2000,Thriller,101.0,6.8,443612,47.56,193.64
+MV-11420,Valley of Future,2020,Thriller,115.0,6.5,361415,53.46,188.19
+MV-11421,Valley of Horizon,2017,Comedy,109.0,6.4,276016,32.82,60.05
+MV-11422,Valley of Justice,2013,Comedy,94.0,6.3,410243,78.16,211.72
+MV-11423,Valley of Kingdom,2017,Adventure,147.0,7.5,657449,119.68,386.32
+MV-11424,Valley of Sanctuary,2010,Thriller,129.0,7.6,183719,2.0,2.92
+MV-11425,Valley of Silence,1998,Thriller,120.0,7.4,354989,76.02,139.98
+MV-11426,Valley of Storm,2016,Drama,,8.5,346077,29.77,100.73
+MV-11427,Valley of Voyage,2013,Drama,158.0,8.5,318146,26.51,43.35
+MV-11428,Voice of Ancient Symphony,2015,Animation,92.0,7.2,710723,83.57,460.53
+MV-11429,Voice of Ancient Tomorrow,2007,Action,141.0,6.9,541890,98.33,244.66
+MV-11430,Voice of Crimson Empire,2022,Thriller,104.0,6.6,370693,41.77,178.35
+MV-11431,Voice of Eternal Courage,2014,Drama,107.0,7.3,275635,25.99,60.57
+MV-11432,Voice of Eternal Galaxy,1993,Sci-Fi,136.0,6.5,990904,109.67,718.52
+MV-11433,Voice of Frozen Illusion,2011,Animation,102.0,6.8,528481,61.39,310.29
+MV-11434,Voice of Furious Dreams,2018,Thriller,118.0,5.9,286351,38.11,118.98
+MV-11435,Voice of Furious Frontier,2019,Drama,106.0,7.2,248186,29.04,51.19
+MV-11436,Voice of Furious Sanctuary,2012,Thriller,129.0,8.1,263771,2.87,5.32
+MV-11437,Voice of Hidden Odyssey,2022,Horror,102.0,6.5,294700,11.03,68.26
+MV-11438,Voice of Last Warrior,2004,Action,112.0,7.8,743860,212.59,435.62
+MV-11439,Voice of Midnight Winter,2010,Adventure,117.0,7.5,414052,39.32,139.7
+MV-11440,Voice of Radiant Frontier,2022,Sci-Fi,130.0,6.9,471919,139.37,266.04
+MV-11441,Voice of Shattered Silence,2022,Romance,118.0,6.4,677276,52.88,214.7
+MV-11442,Voice of Spectral Labyrinth,2017,Thriller,123.0,7.3,406440,25.77,103.61
+MV-11443,Voyage of Courage,2021,Drama,117.0,9.0,359425,30.79,59.44
+MV-11444,Voyage of Frontier,1993,Comedy,92.0,6.0,134685,2.0,6.49
+MV-11445,Voyage of Galaxy,2021,Comedy,99.0,5.9,158054,25.18,41.7
+MV-11446,Voyage of Labyrinth,2006,Romance,110.0,6.4,257762,35.18,69.73
+MV-11447,Voyage of Odyssey,2001,Horror,90.0,6.1,204987,16.38,70.39
+MV-11448,Voyage of Storm,2003,Sci-Fi,138.0,7.5,1143163,91.15,793.99
+MV-11449,Voyage of Symphony,2010,Comedy,100.0,6.6,164184,6.0,28.39
+MV-11450,Voyage of Tomorrow,2004,Drama,122.0,7.4,273463,15.22,34.88
+MV-11451,Voyage of Winter,2006,Horror,107.0,6.3,158627,2.0,12.01
+MV-11452,Warrior of Eternity,1998,Action,129.0,6.8,388692,45.5,162.76
+MV-11453,Warrior of Frontier,2005,Comedy,89.0,6.9,245696,37.27,63.06
+MV-11454,Warrior of Galaxy,2014,Thriller,116.0,6.7,282570,8.08,32.86
+MV-11455,Warrior of Justice,2011,Drama,164.0,8.2,308743,21.51,79.69
+MV-11456,Warrior of Kingdom,2007,Comedy,103.0,6.4,257629,51.76,95.33
+MV-11457,Warrior of Memory,2018,Action,126.0,5.8,635615,214.88,423.85
+MV-11458,Warrior of Sanctuary,2022,Drama,133.0,8.1,312378,20.66,40.64
+MV-11459,Warrior of Silence,2018,Documentary,88.0,7.6,240223,5.39,8.49
+MV-11460,Warrior of Symphony,2007,Comedy,104.0,6.7,281530,24.41,88.31
+MV-11461,Warrior of Tomorrow,2018,Drama,154.0,7.0,425500,74.07,222.27
+MV-11462,Warrior of Voyage,2000,Comedy,,5.5,184198,46.82,82.58
+MV-11463,Warrior of Wilderness,1998,Horror,99.0,7.1,224407,8.87,40.48
+MV-11464,Warrior of Winter,2007,Action,128.0,6.0,1477956,182.67,1082.97
+MV-11465,Wild Dreams,2020,Thriller,131.0,8.1,255879,2.0,7.37
+MV-11466,Wild Frontier,2003,Drama,158.0,8.2,334261,21.67,68.66
+MV-11467,Wild Justice,1991,Drama,124.0,8.0,305909,32.69,60.51
+MV-11468,Wild Labyrinth,1998,Action,127.0,6.8,620672,129.2,368.79
+MV-11469,Wild Sanctuary,2021,Adventure,113.0,7.4,812987,107.28,538.96
+MV-11470,Wild Silence,2015,Romance,124.0,6.2,188295,35.51,58.37
+MV-11471,Wild Symphony,2004,Drama,155.0,7.9,475024,56.69,192.89
+MV-11472,Wild Voyage,2013,Thriller,97.0,6.7,350200,47.65,147.93
+MV-11473,Wilderness of Courage,2013,Romance,95.0,6.5,308475,34.6,62.38
+MV-11474,Wilderness of Destiny,2016,Action,136.0,7.0,2866718,209.77,2247.27
+MV-11475,Wilderness of Eternity,2003,Adventure,113.0,6.4,690443,170.12,476.3
+MV-11476,Wilderness of Frontier,2021,Drama,148.0,7.4,343615,50.52,141.54
+MV-11477,Wilderness of Future,2006,Animation,103.0,7.4,633960,74.09,376.1
+MV-11478,Wilderness of Galaxy,2017,Horror,103.0,6.6,241630,17.62,82.66
+MV-11479,Wilderness of Glory,1986,Animation,111.0,7.6,614093,84.61,334.68
+MV-11480,Wilderness of Justice,2008,Sci-Fi,145.0,6.7,837456,124.13,545.96
+MV-11481,Wilderness of Kingdom,2008,Action,147.0,6.7,1238924,106.71,828.18
+MV-11482,Wilderness of Sanctuary,2013,Animation,104.0,7.0,438363,56.25,239.38
+MV-11483,Wilderness of Tomorrow,1992,Comedy,109.0,7.0,291279,22.84,103.62
+MV-11484,Wilderness of Voyage,2019,Comedy,95.0,6.5,446522,63.11,237.21
+MV-11485,Wilderness of Warrior,2002,Sci-Fi,121.0,6.9,1174155,148.87,817.57
+MV-11486,Wilderness of Wilderness,2016,Horror,89.0,5.0,140501,4.91,32.47
+MV-11487,Wilderness of Winter,2020,Romance,120.0,7.4,228251,11.42,48.54
+MV-11488,Winter of Eternity,2014,Comedy,97.0,5.0,206838,29.74,76.22
+MV-11489,Winter of Future,2018,Horror,88.0,6.1,263241,17.62,98.82
+MV-11490,Winter of Galaxy,2016,Horror,83.0,5.5,402543,23.05,135.6
+MV-11491,Winter of Horizon,2008,Drama,140.0,7.6,340372,60.71,85.97
+MV-11492,Winter of Illusion,2020,Action,111.0,6.8,738544,119.02,481.99
+MV-11493,Winter of Justice,2005,Comedy,95.0,5.1,190233,28.4,83.66
+MV-11494,Winter of Labyrinth,2014,Comedy,101.0,5.5,295020,35.08,107.85
+MV-11495,Winter of Memory,2018,Documentary,78.0,7.8,283455,17.61,26.6
+MV-11496,Winter of Sanctuary,2009,Sci-Fi,131.0,7.7,713962,95.46,413.2
+MV-11497,Winter of Storm,2006,Sci-Fi,148.0,7.3,655231,198.04,410.98
+MV-11498,Winter of Valley,2011,Documentary,105.0,8.1,252030,8.31,12.82
+MV-11499,Winter of Voyage,2020,Action,119.0,7.8,1163163,152.94,752.35
+MV-11500,Winter of Winter,2023,Horror,84.0,6.8,176420,5.13,26.89
+MV-10847,Silence of Courage,2009,Romance,111.0,5.3,275856,21.13,107.16
+MV-10499,Iron Silence,2004,Action,144.0,6.8,790291,183.22,505.4
+MV-10878,Spectral Future,2003,Sci-Fi,130.0,7.1,807717,93.46,464.76
+MV-10503,Justice of Destiny,2022,Drama,114.0,7.5,313720,35.71,109.92
+MV-10979,The Courage: Midnight Silence,2020,Action,131.0,6.2,458275,88.25,257.85
+MV-11016,The Dreams: Secret Horizon,2001,Comedy,95.0,5.6,210820,28.76,62.51
+MV-10334,Frontier of Labyrinth,1995,Adventure,147.0,6.7,286157,49.31,126.95
+MV-11156,The Infinite Destiny,2003,Drama,140.0,7.4,190702,8.57,21.82
+MV-10811,Shadows of Frozen Sanctuary,2013,Romance,107.0,6.1,296552,42.53,149.64
+MV-11027,The Empire: Frozen Galaxy,2000,Romance,120.0,7.1,241674,19.88,63.79
+MV-11078,The Future: Cosmic Winter,2002,Action,133.0,7.2,789013,107.18,514.07
+MV-10122,Cosmic Voyage,2010,Adventure,129.0,5.7,444600,118.7,290.81
+MV-10998,The Destiny: Silent Justice,1994,Action,113.0,7.3,533127,109.8,308.55
+MV-10574,Legend of Frozen Eternity,2016,Drama,120.0,7.9,242877,21.14,39.79
+MV-11461,Warrior of Tomorrow,2018,Drama,154.0,7.0,425500,74.07,222.27
+MV-10844,Shattered Valley,2012,Animation,101.0,7.3,631819,80.41,346.69
+MV-11433,Voice of Frozen Illusion,2011,Animation,102.0,6.8,528481,61.39,310.29
+MV-10825,Shadows of Mystic Destiny,2008,Drama,113.0,8.3,354368,38.07,119.39
+MV-10526,Kingdom of Wilderness,2016,Comedy,114.0,7.0,365601,10.42,41.79
+MV-11467,Wild Justice,1991,Drama,124.0,8.0,305909,32.69,60.51
+MV-10014,Ancient Empire,2005,Comedy,109.0,6.5,432691,58.25,246.13
+MV-10055,Beyond Furious Future,2020,Horror,94.0,5.7,261784,23.3,115.74
+MV-10799,Secrets of Silent Empire,2024,Comedy,95.0,6.9,318133,22.25,65.17
+MV-11312,The Symphony: Starlight Destiny,2024,Thriller,107.0,6.9,255287,24.06,71.04
+MV-10634,Memory of Storm,2010,Action,147.0,6.3,678965,126.99,463.3
+MV-11076,The Furious Warrior,2019,Thriller,124.0,7.1,271456,10.26,17.31
+MV-11374,The Wilderness: Eternal Illusion,2022,Drama,106.0,8.0,290853,27.12,60.24
+MV-10935,Tales of Cosmic Galaxy,2008,Comedy,88.0,6.5,257653,28.52,94.54
+MV-10720,Rise of Forgotten Warrior,2019,Comedy,88.0,7.8,328764,32.82,79.0
+MV-11210,The Memory: Cosmic Wilderness,2009,Comedy,87.0,6.7,301181,56.63,131.82
+MV-10333,Frontier of Kingdom,2011,Thriller,117.0,6.5,325963,52.26,113.76
+MV-10317,Forgotten Dreams,2011,Adventure,121.0,7.4,404888,80.97,163.48
+MV-10959,Tales of Shattered Voyage,2012,Sci-Fi,115.0,7.1,1197273,149.66,843.88
+MV-10753,Search for Golden Storm,2020,Thriller,120.0,8.2,320046,2.0,8.2
+MV-10132,Courage of Storm,2022,Animation,111.0,6.3,621474,95.95,421.88
+MV-10800,Secrets of Spectral Justice,2012,Horror,,5.9,255315,32.67,122.61
+MV-10278,Eternal Valley,2017,Adventure,117.0,7.3,774468,98.44,457.65
+MV-11041,The Eternity: Crimson Galaxy,2019,Drama,113.0,8.0,203756,2.0,6.89
+MV-11308,The Symphony: Last Symphony,2012,Drama,151.0,7.8,383249,42.43,141.77
+MV-10983,The Courage: Secret Odyssey,1999,Documentary,95.0,7.0,211179,5.0,7.58
+MV-10774,Secret Justice,2016,Drama,111.0,7.2,306565,38.5,102.14
+MV-10108,Chronicles of Starlight Justice,2012,Comedy,93.0,6.7,577764,76.96,355.2
+MV-11221,The Memory: Midnight Galaxy,2019,Comedy,89.0,6.3,196224,13.59,64.56
+MV-10999,The Destiny: Wild Illusion,2023,Action,137.0,7.6,1393640,184.04,1012.13
+MV-11464,Warrior of Winter,2007,Action,128.0,6.0,1477956,182.67,1082.97
+MV-10012,Ancient Destiny,2003,Action,143.0,7.0,461545,113.76,242.18
+MV-11300,The Symphony: Forgotten Horizon,2019,Horror,103.0,5.6,238566,19.84,54.93
+MV-10759,Search for Last Galaxy,2022,Action,111.0,5.8,900382,180.97,658.27
+MV-10740,Sanctuary of Silence,2007,Drama,141.0,8.0,339556,27.44,92.81
+MV-10405,Glory of Wilderness,2016,Action,130.0,6.9,302512,30.96,62.77

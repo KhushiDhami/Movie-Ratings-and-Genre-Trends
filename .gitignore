@@ -1,0 +1,21 @@
+# Environments & virtualenvs
+.venv/
+__pycache__/
+
+# Build, test, and intermediate generator scripts
+*.py
+*.sh
+*.yml
+*.log
+report_pages/
+report_images/
+pdf_pages/
+summary.pdf
+
+# Whitelist allowed repository files
+!analysis.ipynb
+!data.csv
+!readme.md
+!report.pdf
+!requirment.txt
+!.gitignore
